@@ -1,0 +1,100 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{Abbildungsverzeicnis}{IX}{chapter*.4}%
+\contentsline {chapter}{Tabellenverzeichnis}{XI}{chapter*.5}%
+\contentsline {chapter}{\numberline {1}Grundbegriffe der Regelungstechnik}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Historische Beispiele der Regelungstechnik}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Antike Wasseruhr}{2}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Fliehkraftregler von James Watt}{3}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Regelungstechnik in der Neuzeit bis Heute}{4}{subsection.1.1.3}%
+\contentsline {section}{\numberline {1.2}Struktur einer Regelung}{6}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Vollständiger Wirkungsplan einer Regelung}{6}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Vereinfachter Wirkungsplan einer Regelung}{7}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Wirkungsplan am Beispiel einer Fahrstuhlregelung}{7}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Prinzip der Steuerung in der offenen Wirkungskette}{9}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Anwendung im Regelkreis als Vorsteuerung}{10}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Anwendung im Regelkreis als Störgrößenaufschaltung}{11}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}Klassifikation von Regelungsaufgaben}{12}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Festwert- oder Störgrößenregelung}{12}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Folgereglung}{12}{subsection.1.4.2}%
+\contentsline {subsubsection}{\nonumberline Führungssprungantworten und unterschiedliche Führungsgrößen}{12}{subsubsection*.19}%
+\contentsline {chapter}{\numberline {2}Modellbildung}{15}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Einführendes Beispiel}{15}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Klassifikation von Übertragungsgliedern}{17}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Dynamik}{17}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Linearität}{18}{subsection.2.2.2}%
+\contentsline {subsubsection}{\nonumberline Lineare Übertragungsglieder}{18}{subsubsection*.27}%
+\contentsline {subsubsection}{\nonumberline Nichtlineare Übertragunsglieder}{19}{subsubsection*.31}%
+\contentsline {subsection}{\numberline {2.2.3}Zeitinvarianz}{20}{subsection.2.2.3}%
+\contentsline {subsubsection}{\nonumberline Beispiele für zeitvariante Systeme}{21}{subsubsection*.35}%
+\contentsline {subsection}{\numberline {2.2.4}Kausalität}{21}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Beschreibung lineare Systeme im Zeitbereich}{22}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Beschreibung lineare Systeme durch Differenzialgleichungen}{22}{subsection.2.3.1}%
+\contentsline {subsubsection}{\nonumberline Aufstellen und lösen der linearen Differenzialgleichung}{22}{subsubsection*.38}%
+\contentsline {subsubsection}{\nonumberline Gewichtsfunktion und Faltung}{24}{subsubsection*.40}%
+\contentsline {subsubsection}{\nonumberline Einheitssprung und Sprungantwort}{25}{subsubsection*.42}%
+\contentsline {section}{\numberline {2.4}Beschreibung lineare Systeme im Frequenzbereich}{25}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Fourier Reihenentwicklung}{25}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Fouriertransformation}{28}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Der Frequenzgang eines LZI-Übertragungsgliedes}{28}{subsection.2.4.3}%
+\contentsline {subsubsection}{\nonumberline Allgemeine Betrachtung des Frequenzgang}{28}{subsubsection*.47}%
+\contentsline {subsubsection}{\nonumberline Die Ortskurve eins LZI-Übertragungsgliedes}{29}{subsubsection*.50}%
+\contentsline {subsubsection}{\nonumberline Die Frequenzkennlinien oder Bodediagramm eins LZI-Übertragungsgliedes \cite {Lunze10}}{30}{subsubsection*.54}%
+\contentsline {subsection}{\numberline {2.4.4}Laplacetransformation}{33}{subsection.2.4.4}%
+\contentsline {subsubsection}{\nonumberline Übertragungsfunktion}{34}{subsubsection*.58}%
+\contentsline {subsubsection}{\nonumberline Allgemeine Berechnung der Übertragungsfunktion aus der Differentialgleichung}{35}{subsubsection*.60}%
+\contentsline {subsubsection}{\nonumberline Beispiel: Feder-Masse-Dämpfer}{36}{subsubsection*.62}%
+\contentsline {subsection}{\numberline {2.4.5}Pole und Nullstellen der Übertragungsfunktion}{36}{subsection.2.4.5}%
+\contentsline {subsubsection}{\nonumberline Berechnung der Sprungantwort aus der Übertragungsfunktion}{37}{subsubsection*.65}%
+\contentsline {subsection}{\numberline {2.4.6}Lineare Grundglieder zur Beschreibung dynamischer Verhalten}{39}{subsection.2.4.6}%
+\contentsline {subsubsection}{\nonumberline Integratorglied (I-Glied)}{39}{subsubsection*.67}%
+\contentsline {subsubsection}{\nonumberline Differenzierglied (D-Glied)}{41}{subsubsection*.73}%
+\contentsline {subsubsection}{\nonumberline Totzeitglied (T$_{\boldsymbol {t}}$-Glied)}{42}{subsubsection*.78}%
+\contentsline {subsubsection}{\nonumberline Verzögerungsglied 1-Ordnung (PT$_{\boldsymbol {1}}$-Glied)}{44}{subsubsection*.83}%
+\contentsline {subsubsection}{\nonumberline Verzögerungsglied 2ter-Ordnung (PT$_{\boldsymbol {2}}$-Glied)}{46}{subsubsection*.89}%
+\contentsline {subsection}{\numberline {2.4.7}Nichtlineare Übertragungsglieder}{51}{subsection.2.4.7}%
+\contentsline {section}{\numberline {2.5}Experimentelle Bestimmung der Systemparameter}{52}{section.2.5}%
+\contentsline {subsubsection}{\nonumberline Allgemeine Vorgehensweise:}{52}{subsubsection*.97}%
+\contentsline {subsection}{\numberline {2.5.1}Bestimmung des Übertragungsverhaltens von Grundgliedern}{54}{subsection.2.5.1}%
+\contentsline {subsubsection}{\nonumberline Anfangs- und Endwerte der Sprungantwort}{54}{subsubsection*.100}%
+\contentsline {subsubsection}{\nonumberline Strecken mit PT$_{\boldsymbol {1}}$ Verhalten}{55}{subsubsection*.102}%
+\contentsline {subsubsection}{\nonumberline Allgemeine Verzögerungsglieder}{55}{subsubsection*.105}%
+\contentsline {subsubsection}{\nonumberline Strecken mit PT$_{\text {N}}$ Verhalten}{56}{subsubsection*.108}%
+\contentsline {subsubsection}{\nonumberline Strecken mit schwingungsfähigem PT$_{2}$ Verhalten}{57}{subsubsection*.111}%
+\contentsline {section}{\numberline {2.6}Modellvereinfachung}{59}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Normierung}{59}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Linearisierung}{60}{subsection.2.6.2}%
+\contentsline {subsubsection}{\nonumberline Bestimmung von stationären Zuständen aus dem Wirkungsplan}{60}{subsubsection*.114}%
+\contentsline {subsubsection}{\nonumberline Berechnung des linearisierten Systems}{61}{subsubsection*.117}%
+\contentsline {subsection}{\numberline {2.6.3}Wirkungsplanvereinfachung}{63}{subsection.2.6.3}%
+\contentsline {subsubsection}{\nonumberline Reihenschaltung von Übertragungsfunktionen}{63}{subsubsection*.121}%
+\contentsline {subsubsection}{\nonumberline Parallelschaltung von Übertragungsfunktionen}{64}{subsubsection*.124}%
+\contentsline {subsubsection}{\nonumberline Schaltung von Übertragungsfunktionen mit Rückführung}{64}{subsubsection*.127}%
+\contentsline {chapter}{\numberline {3}Analyse des Regelkreises}{67}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Modell des Standardregelkreis \cite {MSF05,Lunze10}}{67}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Analyse der Stabilität des geschlossenen Regelkreises}{70}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Technische Beispiele für Stabilität}{70}{subsection.3.2.1}%
+\contentsline {subsubsection}{\nonumberline Beispiele für instabile Systeme}{71}{subsubsection*.134}%
+\contentsline {subsection}{\numberline {3.2.2}Stabilitätsprüfung anhand der Übertragungsfunktion \cite {Lunze10}}{72}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Stabilitätsprüfung anhand des Frequenzgangs}{73}{subsection.3.2.3}%
+\contentsline {subsubsection}{\nonumberline Das vereinfachte Nyquist-Kriterium}{73}{subsubsection*.137}%
+\contentsline {subsubsection}{\nonumberline Erweiterung auf Regelkreise mit Totzeit}{74}{subsubsection*.140}%
+\contentsline {subsubsection}{\nonumberline Das Phasenrandkriterium}{76}{subsubsection*.143}%
+\contentsline {chapter}{\numberline {4}Entwurf der Regelung}{79}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Forderungen an den geschlossenen Regelkreis}{79}{section.4.1}%
+\contentsline {subsubsection}{\nonumberline Stabilität des geschlossenen Regelkreises}{79}{subsubsection*.146}%
+\contentsline {subsubsection}{\nonumberline Sollwertfolge und Störunterdrückung}{80}{subsubsection*.148}%
+\contentsline {subsubsection}{\nonumberline Dynamikanforderungen an den Regelkreis}{80}{subsubsection*.150}%
+\contentsline {subsubsection}{\nonumberline Robustheit des Regelkreises}{81}{subsubsection*.154}%
+\contentsline {section}{\numberline {4.2}Standard Reglertypen}{82}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}P-Regler}{82}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}PI-Regler}{82}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}PID-Regler}{84}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Technisch realisierbarer PID-Regler}{85}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}Entwurfsverfahren für einschleifige Regelkreise}{86}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Regler Entwurf mittels Einstellregeln}{86}{subsection.4.3.1}%
+\contentsline {subsubsection}{\nonumberline Bestimmung der Reglerparameter bei unbekannten Strecken nach Ziegler-Nichols}{86}{subsubsection*.166}%
+\contentsline {subsubsection}{\nonumberline Entwurf bei vorheriger experimenteller Bestimmung einiger Streckenparameter}{87}{subsubsection*.170}%
+\contentsline {subsection}{\numberline {4.3.2}Reglerentwurf am Pol- / Nullstellendiagramm (Wurzelortskurve)}{89}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Reglerentwurf an der Frequenzkennlinie}{93}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Reglerentwurf nach Betragsoptimum}{96}{subsection.4.3.4}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

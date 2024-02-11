@@ -1,0 +1,92 @@
+\babel@toc {ngerman}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Dynamisches System als Beschreibung eines physikalischen Prozess}}{1}{figure.caption.6}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Prinzipdarstellung einer antiken Wasseruhr, welche in dieser oder ähnlicher Form zwischen 1500-300 Jahre B.C. zum Einsatz kamen}}{2}{figure.caption.8}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Prinzipdarstellung einer Dampfmengenregelung durch einen Fliehkraftregler (Größen der einzelnen Komponenten, nicht maßstabsgetreu)}}{4}{figure.caption.9}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Wirkungsplandarstellung einer Regelung nach DIN}}{6}{figure.caption.10}%
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Vereinfachte Wirkungsplandarstellung}}{7}{figure.caption.11}%
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Regelung der Fahrgeschwindigkeit eines Aufzuges (nach \cite {MSF05} Bild 1.14 a) )}}{8}{figure.caption.12}%
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Vollständige Wirkungsplandarstellung der Fahrstuhlregelung (nach \cite {MSF05} Bild 1.14 b)}}{8}{figure.caption.13}%
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Prinzip der Steuerung in der offenen Wirkungskette ohne Rückführung}}{9}{figure.caption.14}%
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Nutzung einer Steuerung, um die Sollwertfolge im geschlossenen Regelkreis zu verbessern}}{10}{figure.caption.15}%
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Nutzung einer Störgrößenaufschaltung, um messbare Störung zu kompensieren.}}{11}{figure.caption.16}%
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Typisches zeitliches Verhalten der Störsprungantwort $h_{\text {z}}(t)$, für den Fall ohne und mit Regelung}}{12}{figure.caption.17}%
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Typisches zeitliches Verhalten der Führungssprungantwort $h_{\text {w}}(t)$, für unterschiedliche Reglerparameter}}{13}{figure.caption.20}%
+\contentsline {figure}{\numberline {1.13}{\ignorespaces Lineare Führungsgrößenänderung $w(t)$}}{13}{figure.caption.21}%
+\contentsline {figure}{\numberline {1.14}{\ignorespaces Parabelförmige Führungsgrößenänderung $w(t)$}}{13}{figure.caption.22}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Reihenschaltung aus Induktivität und Widerstand}}{15}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Wirkschaltplan des dynamischen Verhaltens des RL-Glieds (vgl. \cite {Foellinger94})}}{17}{figure.caption.25}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Vertauschung der Summationstelle bei linearen Übertragungsliedern}}{18}{figure.caption.28}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Vertauschung der konstanten Verstärkungsfaktoren bei linearen Übertragungsliedern}}{19}{figure.caption.29}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Nichtlineare Kennlinie zur Darstellung der Nichtlinearität}}{19}{figure.caption.32}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Beispielhafte Darstellung des Verschiebungssatzes}}{20}{figure.caption.33}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Untersuchung zum Verschiebungssatz bei einem Abtastglied}}{21}{figure.caption.36}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Feder, Masse, Dämpfer System und dessen Verhalten bei Auslenkung um eine Gleichgewichtslage}}{26}{figure.caption.43}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Annäherung einer periodischen Rechteckfunktion mittels Fourierreihen, in Anlehnung an \cite {Lunze10}}}{26}{figure.caption.44}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Darstellung der sinus- und cosinus-Funktionen der Fourierreihe mittels Betrag und Phase als diskretes Spektrum}}{27}{figure.caption.45}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Prinzipdarstellung des Frequenzgangs von LZI-Gliedern, in Anlehnung an \cite {Lunze10}}}{29}{figure.caption.48}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Ortskurve eines dynamischen System}}{30}{figure.caption.51}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Ortskurve des IT$_{1}$-Gliedes}}{31}{figure.caption.52}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Bodediagramm zur Darstellung des Frequenzgangs, exemplarisch für ein dynamisches System}}{33}{figure.caption.55}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Darstellung der Laplacetransformation zur Lösung von Differenzialgleichungen}}{33}{figure.caption.56}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Pol- Nullstellen Diagramm gebildet aus einer Übertragungsfunktion}}{37}{figure.caption.63}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Qualitatives Pol- Nullstellen Diagramm des Integratorgliedes}}{39}{figure.caption.68}%
+\contentsline {figure}{\numberline {2.19}{\ignorespaces Qualitative Sprungantwort des Integratorgliedes}}{40}{figure.caption.69}%
+\contentsline {figure}{\numberline {2.20}{\ignorespaces Qualitatives Bodediagramm des Integratorglieds}}{40}{figure.caption.70}%
+\contentsline {figure}{\numberline {2.21}{\ignorespaces Symbol, Blockschaltbild des Integratorglieds}}{41}{figure.caption.71}%
+\contentsline {figure}{\numberline {2.22}{\ignorespaces Qualitatives Pol- Nullstellen Diagramm des Diffenzierglieds}}{41}{figure.caption.74}%
+\contentsline {figure}{\numberline {2.23}{\ignorespaces Qualitatives Bodediagramm des Differenzierglied}}{42}{figure.caption.75}%
+\contentsline {figure}{\numberline {2.24}{\ignorespaces Symbol, Blockschaltbild des Differenzierglied}}{42}{figure.caption.76}%
+\contentsline {figure}{\numberline {2.25}{\ignorespaces Qualitative Sprungantwort des Totzeitgliedes}}{43}{figure.caption.79}%
+\contentsline {figure}{\numberline {2.26}{\ignorespaces Qualitatives Bodediagramm des Totzeitgliedes}}{43}{figure.caption.80}%
+\contentsline {figure}{\numberline {2.27}{\ignorespaces Symbol, Blockschaltbild des Totzeitgliedes}}{44}{figure.caption.81}%
+\contentsline {figure}{\numberline {2.28}{\ignorespaces Qualitatives Pol- Nullstellen Diagramm des Verzögerungsgliedes 1-Ordnung}}{44}{figure.caption.84}%
+\contentsline {figure}{\numberline {2.29}{\ignorespaces Qualitative Sprungantwort des Verzögerungsglied 1-Ordnung}}{45}{figure.caption.85}%
+\contentsline {figure}{\numberline {2.30}{\ignorespaces Qualitatives Bodediagramm des Verzögerungsglied 1-Ordnung}}{45}{figure.caption.86}%
+\contentsline {figure}{\numberline {2.31}{\ignorespaces Symbol, Blockschaltbild des Verzögerungsglied 1-Ordnung}}{46}{figure.caption.87}%
+\contentsline {figure}{\numberline {2.32}{\ignorespaces Qualitatives Pol- Nullstellen Diagramm des Verzögerungsgliedes 2ter-Ordnung für konjugiert komplexe und reelle Polpaare und deren Sprungantworten}}{47}{figure.caption.90}%
+\contentsline {figure}{\numberline {2.33}{\ignorespaces Qualitative Sprungantworten des Verzögerungsglied 2ter-Ordnung}}{48}{figure.caption.91}%
+\contentsline {figure}{\numberline {2.34}{\ignorespaces Qualitatives Bodediagramm des Verzögerungsglied 2-Ordnung}}{49}{figure.caption.92}%
+\contentsline {figure}{\numberline {2.35}{\ignorespaces Symbol, Blockschaltbild des Verzögerungsglied 2-Ordnung}}{50}{figure.caption.93}%
+\contentsline {figure}{\numberline {2.38}{\ignorespaces Wirkungsplan zur Schätzung von Systemparametern \cite {Foellinger94}}}{53}{figure.caption.98}%
+\contentsline {figure}{\numberline {2.39}{\ignorespaces Schätzung der Systemparameter eine PT$_{\boldsymbol {1}}$-Glieds \cite {Foellinger94}}}{55}{figure.caption.103}%
+\contentsline {figure}{\numberline {2.40}{\ignorespaces Schätzung von Systemparametern beliebiger Systeme 1 Ordnung \cite {Foellinger94}}}{56}{figure.caption.106}%
+\contentsline {figure}{\numberline {2.41}{\ignorespaces Sprungantwort eines PT$_{N}$-Glieds und die zu schätzenden Parameter \cite {Foellinger94}}}{57}{figure.caption.109}%
+\contentsline {figure}{\numberline {2.42}{\ignorespaces Sprungantwort eines PT2-Glieds und die zu schätzenden Parameter \cite {Foellinger94}}}{58}{figure.caption.112}%
+\contentsline {figure}{\numberline {2.43}{\ignorespaces Berechnung des stationären Wertepaares anhand des Wirkschaltplans}}{61}{figure.caption.115}%
+\contentsline {figure}{\numberline {2.44}{\ignorespaces Linearisierung einer nichtlinearen Funktion durch eine Geradenapproximation}}{61}{figure.caption.118}%
+\contentsline {figure}{\numberline {2.45}{\ignorespaces Darstellung der Linearisierung im Blockschaltbild}}{62}{figure.caption.119}%
+\contentsline {figure}{\numberline {2.46}{\ignorespaces Regeln für die Reihenschaltung von Übertragungsfunktionen nach \cite {Lunze10}}}{63}{figure.caption.122}%
+\contentsline {figure}{\numberline {2.47}{\ignorespaces Regeln für die Parallelschaltung von Übertragungsfunktionen nach \cite {Lunze10}}}{64}{figure.caption.125}%
+\contentsline {figure}{\numberline {2.48}{\ignorespaces Regeln für die Rückführung von Übertragungsfunktionen nach \cite {Lunze10}}}{65}{figure.caption.128}%
+\contentsline {figure}{\numberline {2.49}{\ignorespaces Regeln für das Umformen von Blockschaltbildern nach \cite {Foellinger94,Lunze10}}}{66}{figure.caption.129}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Abbildung der Komponenten im Standardregelkreis}}{67}{figure.caption.130}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Vereinfachte Darstellung der Komponenten im Standardregelkreis}}{69}{figure.caption.131}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces RC-Glied als Beispiel eines Zustands und E/A-Stabilen Systems}}{70}{figure.caption.132}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Mathematisches und mögliche Ausprägung als inverses Pendel}}{71}{figure.caption.135}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Grafische Darstellung des vereinfachten Nyquist-Kriteriums für einen instabilen Regelkreis}}{74}{figure.caption.138}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Beispielhafte Ortskurven für stabile Systeme (oben) und instabile Systeme (unten). Das IT$_{2}T_{\text {t}}$-System im unteren rechten Bereich, wird durch eine Totzeit instabil}}{75}{figure.caption.141}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Phasenrandkriterium und Zusammenhand zwischen Ortskurve und Frequenzkennlinie}}{76}{figure.caption.144}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Führungssprungantwort des geschlossenen Regelkreises \cite {Lunze10}}}{81}{figure.caption.151}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Störgrößensprungantwort des geschlossenen Regelkreises \cite {Lunze10}}}{81}{figure.caption.152}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Symbol, Blockschaltbild des P-Reglers}}{82}{figure.caption.155}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Parallelstruktur des PI-Reglers}}{83}{figure.caption.156}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Sprungantwort des PI-Reglers auf einen Regeldifferenzsprung}}{83}{figure.caption.157}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Blockschaltbild des PI-Reglers}}{84}{figure.caption.158}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Parallelstruktur des PID-Reglers}}{84}{figure.caption.159}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Sprungantwort des PID-Reglers auf einen Regeldifferenzsprung}}{85}{figure.caption.160}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Blockschaltbild des PID-Reglers}}{85}{figure.caption.161}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Parallelstruktur des PID-Reglers}}{85}{figure.caption.162}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Sprungantwort des realen PID-Reglers auf einen Regeldifferenzsprung}}{86}{figure.caption.163}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Blockschaltbild des realen PID-Reglers}}{86}{figure.caption.164}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Dauerschwingung des geschlossenen Regelkreises an der kritischen Reglerverstärkung $K_{\text {Krit.}}$}}{87}{figure.caption.167}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Sprungantwort eines PT$_{N}$-Glieds und die zu schätzenden Parameter \cite {Foellinger94}}}{88}{figure.caption.171}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Bestimmung der Polage des geschlossenen Regelkreises im PN-Diagramm}}{90}{figure.caption.173}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Verlauf von Wurzelortskurven für verschiedene Übertragungsfunktionen $G_{0}(s)$}}{92}{figure.caption.174}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Verlauf des approximierten Frequenzgangs der offenen Kette}}{94}{figure.caption.175}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Schrittweiser Entwurf eines Reglers $G_{\text {R}}(s)$ nach dem Frequenzkennlinienverfahren}}{95}{figure.caption.176}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Führungssprungantwort nach Auslegung mittels Betragsoptimum (schwarze Linie) und geeignete Approximation als P$T_{1}$-Glied (blaue Linie)}}{98}{figure.caption.177}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

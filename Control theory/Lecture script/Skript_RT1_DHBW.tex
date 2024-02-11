@@ -1,0 +1,138 @@
+%######################################################################################
+% Generel Document Class
+%######################################################################################
+
+%------------------------------------------------------------------------------------
+\documentclass[12pt,				% font size
+					pdftex, 		% using pdftex to generate the output
+					twoside,		% doppelseitig
+					headsepline, 	% Linie unter Kopfzeile
+					DIV=12,			% pagewidht scaling factor (12pt = standart)	
+					]{scrbook}
+					%					BCOR=2mm,		% correction
+										%numbers=noenddot% no fullstop after chapter numbering
+%------------------------------------------------------------------------------------
+% "`draft"' - to find overfull Boxen:
+
+%-----------------------------------------------------
+%Set serfis for chapter, section, e.g.
+\setkomafont{sectioning}{\rmfamily\bfseries}
+%-----------------------------------------------------
+
+%-----------------------------------------------------
+%General Packages needed
+%-----------------------------------------------------
+\usepackage{booktabs}
+\newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc} 
+\usepackage[dvips]{graphicx}
+\usepackage{xcolor}
+\usepackage[most]{tcolorbox}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{tabularx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{hyperref}
+\usepackage{trfsigns}
+\usepackage{tocbasic}
+
+%-------------------------------------------------------
+%Definitions for extras in the script
+%-------------------------------------------------------
+
+\newtcbtheorem{Summary}{\bfseries Aufgaben zum Selbststudium}{enhanced,drop shadow={black!50!white},
+	coltitle=black,
+	top=0.3in,
+	attach boxed title to top left=
+	{xshift=1.5cm,yshift=-\tcboxedtitleheight/2},
+	boxed title style={size=small,colback=blue!20!white}
+}{summary}
+
+\newtcbtheorem{Aufgaben}{\bfseries Beispiele zum Nachlesen}{enhanced,drop shadow={black!50!white},
+	coltitle=black,
+	top=0.3in,
+	attach boxed title to top left=
+	{xshift=1.5cm,yshift=-\tcboxedtitleheight/2},
+	boxed title style={size=small,colback=green!20!white}
+}{Aufgaben}
+
+\newtcbtheorem{simulation}{\bfseries Octave Simulationsbeispiele}{enhanced,drop shadow={black!50!white},
+	coltitle=black,
+	top=0.3in,
+	attach boxed title to top left=
+	{xshift=1.5cm,yshift=-\tcboxedtitleheight/2},
+	boxed title style={size=small,colback=red!20!white}
+}{simulation}
+
+\newtcbtheorem{python}{\bfseries Python Simulationsbeispiele}{enhanced,drop shadow={black!50!white},
+	coltitle=black,
+	top=0.3in,
+	attach boxed title to top left=
+	{xshift=1.5cm,yshift=-\tcboxedtitleheight/2},
+	boxed title style={size=small,colback=black!20!white}
+}{python}
+
+\DeclareGraphicsExtensions{.png, .ps, .jpeg, .jpg, .eps, .tif, .ppm, .bmp}
+\DeclareGraphicsRule{.eps}{eps}{.eps}{epstopdf #1}
+
+\begin{document}
+\parindent 0pt
+% Trennung
+
+% Roemische Zahlen fuer Inhaltsverzeichnisse
+\pagenumbering{Roman}
+\input{Titelblatt}
+
+\input{Kapitel/Danksagung.tex}
+%omitted due to github versioning
+%\input{Kapitel/Anhang/Versionierung.tex}
+\setcounter{tocdepth}{2} % Tiefe des Inhaltsverzeichnisses
+\tableofcontents 
+
+%#####################################################
+
+%%------------------------------------------------
+%% List of Figures
+\listoffigures	
+\addcontentsline{toc}{chapter}{Abbildungsverzeicnis}
+%%------------------------------------------------
+%
+%%------------------------------------------------
+%% List of Tables
+\listoftables
+\addcontentsline{toc}{chapter}{Tabellenverzeichnis}
+\cleardoublepage
+%%-------------------------------------------------
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{8pt}
+
+%===============================================================
+%Kapitel des Skriptes
+\include{Kapitel/Kapitel_1_Grundbegriffe/Grundbegriffe}
+\include{Kapitel/Kapitel_2_Modellbildung/Modellbildung}
+\include{Kapitel/Kapitel_3_Systemanalyse/Systemanalyse}
+\include{Kapitel/Kapitel_4_Reglerentwurf/Reglerentwurf}
+%===============================================================
+
+%===============================================================
+\appendix
+% Notizen, Vorlagen zum kopieren, ToDos etc.
+%\include{Kapitel/Anhang/Laplacerechenregeln}
+%\include{Kapitel/Anhang/Laplacetransformation}
+%\include{Kapitel/Anhang/Auslegungsdiagramme}
+%===============================================================
+
+% BIBTEX Literaturverzeichnis
+\bibliographystyle{alphadin}
+\newpage
+%\phantomsection
+\bibliography{Literatur/LiteraturVerzeichnis} 
+
+\end{document}

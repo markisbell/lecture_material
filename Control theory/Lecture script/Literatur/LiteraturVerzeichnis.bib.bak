@@ -1,0 +1,158 @@
+% Encoding: windows-1252
+
+@Book{Lunze10,
+  author    = {Jan Lunze},
+  title     = {Regelungstechnik 1: Systemtheoretische Grundlagen, Analyse und Entwurf einschleifiger Regelungen},
+  year      = {2010},
+  volume    = {8},
+  publisher = {Spinger Heidelber Dordrecht London New York},
+}
+
+@Book{Landes00,
+  author    = {David Landes},
+  title     = {Revolution in Time: Clocks and the Making of the Modern World},
+  year      = {2000},
+  publisher = {Harvard University Press},
+}
+
+@BookInBook{Lewis00,
+  author     = {Michael Lewis},
+  title      = {Theoretical Hydraulics, Automata, and Water Clocks},
+  booktitle  = {Handbook of Ancient Water Technology, Technology and Change in History},
+  year       = {2000},
+  bookauthor = {Örjan Wikander},
+  publisher  = {Leiden},
+}
+
+@Reference{DKE14,
+  editor = {DKE},
+  title  = {DIN IEC 60050-351:2014-09 Internationales Elektrotechnisches Woerterbuch - Teil 351: Leittechnik},
+  year   = {2014},
+}
+
+@Book{Maxwell54,
+  author    = {James Clerk Maxwell},
+  title     = {A Treatise on Electricity and Magnetism},
+  year      = {1954},
+  volume    = {1 \& 2},
+  publisher = {Dover Publications, Inc., New York},
+}
+
+@Book{MSF05,
+  author    = {Heinz Mann and Horst Schiffelgen and Rainer Froriep},
+  title     = {Einf\"uhrung in die Regelungstechnik: Analoge und digitale Regelung,},
+  year      = {2005},
+  edition   = {10},
+  publisher = {Hanser Verlag},
+}
+
+@Book{Zacher17,
+  author    = {Serge Zacher and Manfred Reuter},
+  title     = {Regelungstechnik f\"ur Ingenieure; Analyse, Simulation und Entwurf von Regelkreisen},
+  year      = {2017},
+  edition   = {15},
+  publisher = {Springer Vieweg},
+}
+
+@Book{Foellinger94,
+  author = {Otto Foellinger},
+  title  = {Regelungstechnik: Einfuehrung in die Methodne und ihre Anwendungen},
+  year   = {1994},
+}
+
+@Book{Unbehauen08,
+  author    = {Heinz Unbehauen},
+  title     = {Regelungstechnik I: Klassische Verfahren zur Analyse und Synthese linearer kontinuierlicher Regelsysteme, Fuzzy-Regelsysteme},
+  year      = {2008},
+  edition   = {15},
+  publisher = {Vieweg Verlag},
+}
+
+@Online{Dastych13,
+  author = {J. Dastych and A. Mosebach and C. Ortmann and C. Mau},
+  title  = {Versuch 4: Modellbildung der schwebenden Kugel},
+  year   = {2013},
+  url    = {https://www.ruhr-uni-bochum.de/atp/downloads/lehre/praktikum_ss/BeschreibungV4.pdf},
+  note   = {Zuletzt abgerufen 26.02.2020, 06:06 Uhr},
+}
+
+@Online{Ament17,
+  author   = {Christoph Ament},
+  title    = {Skript zur VorlesungMess- und Regelungstechnik},
+  year     = {2017},
+  url      = {https://www.informatik.uni-augsburg.de/lehrstuehle/rt/lehre/Skript/Skript-Mess--und-Regelungstechnik-13-web.pdf},
+  subtitle = {Universität Augsburg Fkultät für Angewandte Informatik},
+  note     = {Zuletzt abgerufen 26.02.2020, 06:48 Uhr},
+}
+
+@Online{Gangster03,
+  author = {Maximilian Gangster},
+  title  = {Partikulaere Loesungen derinhomogenen Differentialgleichung},
+  year   = {2003},
+  url    = {https://www.math.tugraz.at/~ganster/lv_analysis_2/18_partikulaere_loesungen.pdf},
+  note   = {Zuletzt aufgerufen a, 03.03.2020, 19:54 Uhr},
+}
+
+@Online{Zom13,
+  author = {Zolt\'an Zomotor},
+  title  = {(T1S5RT) 4 Geschichte der Regelung},
+  year   = {2013},
+  url    = {https://www.youtube.com/watch?v=jUXCi_5NZ-c},
+}
+
+@Book{Lutz05,
+  author    = {Holger Lutz and Wolfgang Wendt},
+  title     = {Taschenbuch der Reglungstechnik},
+  year      = {2005},
+  edition   = {6},
+  publisher = {Harry Deutsch Verlag},
+}
+
+@Book{Furlan08,
+  author    = {Peter Furlan},
+  title     = {Das Gelbe Rechenbuch},
+  year      = {2008},
+  volume    = {3},
+  publisher = {Verlag Martina Furlan},
+}
+
+@Online{SML14,
+  author = {Schumacher, W and Mauerer, M. and Leonhard, W.},
+  title  = {Regelungstechnisches Praktikum 1},
+  year   = {2014},
+  url    = {https://www.ifr.ing.tu-bs.de/static/files/lehre/labore/rtp1/Skript_Lineare_Systeme.pdf},
+  note   = {Abgerufen am 29.09.2020, 06:02},
+}
+
+@Book{Adamy09,
+  author    = {J\"urgen Adamy},
+  title     = {Nichtlineare Regelungen},
+  year      = {2009},
+  edition   = {1},
+  publisher = {Springer-Verlag Berlin Heidelberg},
+}
+
+@Online{Winkler10,
+  author = {Friedemann Sebastian Winkler},
+  title  = {U05.1 - Laplace-Transformation einer Differentialgleichung},
+  year   = {2010},
+  url    = {https://me-lrt.de/u05-1-laplace-transformation-einer-differentialgleichung},
+}
+
+@Online{Bruen21,
+  author  = {Arndt Bruenner},
+  date    = {2021},
+  title   = {Mathematik Seiten},
+  url     = {https://www.arndt-bruenner.de/mathe/scripts/polynome.htm},
+  note    = {Zuletzt abgerufewn: 18.08.2021, 10:55 Uhr},
+  urldate = {18.08.2021, 10:55},
+}
+
+@TechReport{Staudt07,
+  author      = {Volker Staudt},
+  date        = {2007},
+  institution = {Lehrstuhl f\"ur Erzeugung und Anwendung elektrischer Energie},
+  title       = {Vorlesungsskript Elektrische Antriebe},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
