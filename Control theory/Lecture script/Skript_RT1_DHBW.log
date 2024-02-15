@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.11)  11 FEB 2024 16:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.11)  15 FEB 2024 10:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1208,7 +1208,7 @@ e-rungs-glie-des 2ter-Ordnung
  []
 
 [8]
-Overfull \hbox (2.75476pt too wide) in paragraph at lines 91--91
+Overfull \hbox (2.75476pt too wide) in paragraph at lines 89--89
  [][] [][]\T1/cmr/m/n/12 Führungssprungantwort nach Aus-le-gung mit-tels Be-tra
 gs-op-ti-mum (schwar- 
  []
@@ -1248,7 +1248,7 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              a package that still implements the
 (scrbook)              deprecated \float@addtolist interface.
 
-<Abbildungen/Grundbegriffe/PDF/DynamischesSystem.pdf, id=458, 526.58702pt x 205
+<Abbildungen/Grundbegriffe/PDF/DynamischesSystem.pdf, id=445, 526.58702pt x 205
 .47003pt>
 File: Abbildungen/Grundbegriffe/PDF/DynamischesSystem.pdf Graphic file (type pd
 f)
@@ -1270,7 +1270,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--35
 
  []
 
-<Abbildungen/Grundbegriffe/PDF/HistorischeSystemeWasseruhr.pdf, id=470, 579.151
+<Abbildungen/Grundbegriffe/PDF/HistorischeSystemeWasseruhr.pdf, id=457, 579.151
 93pt x 397.3055pt>
 File: Abbildungen/Grundbegriffe/PDF/HistorischeSystemeWasseruhr.pdf Graphic fil
 e (type pdf)
@@ -1279,7 +1279,7 @@ Package pdftex.def Info: Abbildungen/Grundbegriffe/PDF/HistorischeSystemeWasser
 uhr.pdf  used on input line 53.
 (pdftex.def)             Requested size: 268.8813pt x 184.4602pt.
 [2 <./Abbildungen/Grundbegriffe/PDF/HistorischeSystemeWasseruhr.pdf>]
-<Abbildungen/Grundbegriffe/PDF/HystorischeSystemeFliehkraft.pdf, id=484, 476.82
+<Abbildungen/Grundbegriffe/PDF/HystorischeSystemeFliehkraft.pdf, id=471, 476.82
 208pt x 251.22337pt>
 File: Abbildungen/Grundbegriffe/PDF/HystorischeSystemeFliehkraft.pdf Graphic fi
 le (type pdf)
@@ -1297,7 +1297,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--129
  []
 
 [5]
-<Abbildungen/Grundbegriffe/PDF/VollstWirkungsplan.pdf, id=513, 249.05847pt x 18
+<Abbildungen/Grundbegriffe/PDF/VollstWirkungsplan.pdf, id=500, 249.05847pt x 18
 2.2938pt>
 File: Abbildungen/Grundbegriffe/PDF/VollstWirkungsplan.pdf Graphic file (type p
 df)
@@ -1312,7 +1312,7 @@ LaTeX Font Info:    Trying to load font information for T1+cmss on input line 1
 File: t1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 [6 <./Abbildungen/Grundbegriffe/PDF/VollstWirkungsplan.pdf>]
-<Abbildungen/Grundbegriffe/PDF/VereinfWirkungsplan.pdf, id=525, 313.09715pt x 6
+<Abbildungen/Grundbegriffe/PDF/VereinfWirkungsplan.pdf, id=512, 313.09715pt x 6
 5.49602pt>
 File: Abbildungen/Grundbegriffe/PDF/VereinfWirkungsplan.pdf Graphic file (type 
 pdf)
@@ -1320,7 +1320,7 @@ pdf)
 Package pdftex.def Info: Abbildungen/Grundbegriffe/PDF/VereinfWirkungsplan.pdf 
  used on input line 180.
 (pdftex.def)             Requested size: 403.31511pt x 84.36827pt.
-<Abbildungen/Grundbegriffe/PDF/Fahrstuhlregelung.pdf, id=528, 485.69731pt x 222
+<Abbildungen/Grundbegriffe/PDF/Fahrstuhlregelung.pdf, id=515, 485.69731pt x 222
 .80202pt>
 File: Abbildungen/Grundbegriffe/PDF/Fahrstuhlregelung.pdf Graphic file (type pd
 f)
@@ -1329,7 +1329,7 @@ Package pdftex.def Info: Abbildungen/Grundbegriffe/PDF/Fahrstuhlregelung.pdf  u
 sed on input line 195.
 (pdftex.def)             Requested size: 371.94951pt x 170.62317pt.
  [7 <./Abbildungen/Grundbegriffe/PDF/VereinfWirkungsplan.pdf>]
-<Abbildungen/Grundbegriffe/PDF/FahrstuhlregelungWirkungsplan.pdf, id=540, 420.4
+<Abbildungen/Grundbegriffe/PDF/FahrstuhlregelungWirkungsplan.pdf, id=527, 420.4
 6193pt x 251.70912pt>
 File: Abbildungen/Grundbegriffe/PDF/FahrstuhlregelungWirkungsplan.pdf Graphic f
 ile (type pdf)
@@ -1350,7 +1350,7 @@ pdfTeX warning: pdflatex.exe (file ./Abbildungen/Grundbegriffe/PDF/Fahrstuhlreg
 elungWirkungsplan.pdf): PDF inclusion: multiple pdfs with page group included i
 n a single page
 >]
-<Abbildungen/Grundbegriffe/PDF/Steuerung.pdf, id=552, 348.37679pt x 52.80574pt>
+<Abbildungen/Grundbegriffe/PDF/Steuerung.pdf, id=539, 348.37679pt x 52.80574pt>
 
 File: Abbildungen/Grundbegriffe/PDF/Steuerung.pdf Graphic file (type pdf)
 <use Abbildungen/Grundbegriffe/PDF/Steuerung.pdf>
@@ -1358,7 +1358,7 @@ Package pdftex.def Info: Abbildungen/Grundbegriffe/PDF/Steuerung.pdf  used on i
 nput line 225.
 (pdftex.def)             Requested size: 425.72302pt x 64.52925pt.
  [9 <./Abbildungen/Grundbegriffe/PDF/Steuerung.pdf>]
-<Abbildungen/Grundbegriffe/PDF/Vorsteuerung.pdf, id=570, 370.41527pt x 86.94527
+<Abbildungen/Grundbegriffe/PDF/Vorsteuerung.pdf, id=557, 370.41527pt x 86.94527
 pt>
 File: Abbildungen/Grundbegriffe/PDF/Vorsteuerung.pdf Graphic file (type pdf)
 <use Abbildungen/Grundbegriffe/PDF/Vorsteuerung.pdf>
@@ -1370,7 +1370,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 266--278
 
  []
 
-<Abbildungen/Grundbegriffe/PDF/StoerGroessen.pdf, id=574, 352.33209pt x 119.072
+<Abbildungen/Grundbegriffe/PDF/StoerGroessen.pdf, id=561, 352.33209pt x 119.072
 51pt>
 File: Abbildungen/Grundbegriffe/PDF/StoerGroessen.pdf Graphic file (type pdf)
 <use Abbildungen/Grundbegriffe/PDF/StoerGroessen.pdf>
@@ -1386,7 +1386,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 290--300
 Underfull \vbox (badness 1521) has occurred while \output is active []
 
  [10 <./Abbildungen/Grundbegriffe/PDF/Vorsteuerung.pdf>]
-<Abbildungen/Grundbegriffe/PDF/FestwertRegelung.pdf, id=584, 100.36841pt x 46.1
+<Abbildungen/Grundbegriffe/PDF/FestwertRegelung.pdf, id=571, 100.36841pt x 46.1
 119pt>
 File: Abbildungen/Grundbegriffe/PDF/FestwertRegelung.pdf Graphic file (type pdf
 )
@@ -1398,7 +1398,7 @@ ed on input line 327.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11 <./Abbildungen/Grundbegriffe/PDF/StoerGroessen.pdf>]
-<Abbildungen/Grundbegriffe/PDF/Fuehrungssprung.pdf, id=594, 163.39455pt x 56.27
+<Abbildungen/Grundbegriffe/PDF/Fuehrungssprung.pdf, id=581, 163.39455pt x 56.27
 744pt>
 File: Abbildungen/Grundbegriffe/PDF/Fuehrungssprung.pdf Graphic file (type pdf)
 
@@ -1406,7 +1406,7 @@ File: Abbildungen/Grundbegriffe/PDF/Fuehrungssprung.pdf Graphic file (type pdf)
 Package pdftex.def Info: Abbildungen/Grundbegriffe/PDF/Fuehrungssprung.pdf  use
 d on input line 346.
 (pdftex.def)             Requested size: 291.28238pt x 100.33667pt.
-<Abbildungen/Grundbegriffe/PDF/Anstiegsfunktion.pdf, id=596, 152.87076pt x 56.2
+<Abbildungen/Grundbegriffe/PDF/Anstiegsfunktion.pdf, id=583, 152.87076pt x 56.2
 7744pt>
 File: Abbildungen/Grundbegriffe/PDF/Anstiegsfunktion.pdf Graphic file (type pdf
 )
@@ -1414,7 +1414,7 @@ File: Abbildungen/Grundbegriffe/PDF/Anstiegsfunktion.pdf Graphic file (type pdf
 Package pdftex.def Info: Abbildungen/Grundbegriffe/PDF/Anstiegsfunktion.pdf  us
 ed on input line 355.
 (pdftex.def)             Requested size: 291.28238pt x 107.25026pt.
-<Abbildungen/Grundbegriffe/PDF/Parabelfunktion.pdf, id=599, 145.74593pt x 56.27
+<Abbildungen/Grundbegriffe/PDF/Parabelfunktion.pdf, id=586, 145.74593pt x 56.27
 742pt>
 File: Abbildungen/Grundbegriffe/PDF/Parabelfunktion.pdf Graphic file (type pdf)
 
@@ -1443,7 +1443,7 @@ e
 
  (Kapitel/Kapitel_2_Modellbildung/Modellbildung.tex
 chapter 2.
-<Abbildungen/Modellbildung/PDF/RLglied.pdf, id=625, 272.18427pt x 105.56223pt>
+<Abbildungen/Modellbildung/PDF/RLglied.pdf, id=612, 272.18427pt x 105.56223pt>
 File: Abbildungen/Modellbildung/PDF/RLglied.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/RLglied.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/RLglied.pdf  used on inp
@@ -1460,7 +1460,7 @@ Underfull \hbox (badness 2591) in paragraph at lines 114--115
 \T1/cmr/m/n/12 Kennlinienglieder be-schrei-ben einen sta-
  []
 
-<Abbildungen/Modellbildung/PDF/Kennlinienglied.pdf, id=637, 184.64803pt x 35.15
+<Abbildungen/Modellbildung/PDF/Kennlinienglied.pdf, id=624, 184.64803pt x 35.15
 459pt>
 File: Abbildungen/Modellbildung/PDF/Kennlinienglied.pdf Graphic file (type pdf)
 
@@ -1468,7 +1468,7 @@ File: Abbildungen/Modellbildung/PDF/Kennlinienglied.pdf Graphic file (type pdf)
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Kennlinienglied.pdf  use
 d on input line 118.
 (pdftex.def)             Requested size: 156.84514pt x 29.86221pt.
-<Abbildungen/Modellbildung/PDF/Proportionalglied.pdf, id=638, 192.71666pt x 77.
+<Abbildungen/Modellbildung/PDF/Proportionalglied.pdf, id=625, 192.71666pt x 77.
 3121pt>
 File: Abbildungen/Modellbildung/PDF/Proportionalglied.pdf Graphic file (type pd
 f)
@@ -1481,7 +1481,7 @@ Overfull \hbox (2.61049pt too wide) in paragraph at lines 125--135
 []$[]$ $[]$ 
  []
 
-<Abbildungen/Modellbildung/PDF/Differnzierglied.pdf, id=639, 185.65611pt x 77.3
+<Abbildungen/Modellbildung/PDF/Differnzierglied.pdf, id=626, 185.65611pt x 77.3
 1212pt>
 File: Abbildungen/Modellbildung/PDF/Differnzierglied.pdf Graphic file (type pdf
 )
@@ -1494,7 +1494,7 @@ Underfull \hbox (badness 1117) in paragraph at lines 159--160
 \T1/cmr/m/n/12 Integrationsglieder in-te-grie-ren den Sys-te-
  []
 
-<Abbildungen/Modellbildung/PDF/Integratorglied.pdf, id=640, 178.35603pt x 128.9
+<Abbildungen/Modellbildung/PDF/Integratorglied.pdf, id=627, 178.35603pt x 128.9
 3205pt>
 File: Abbildungen/Modellbildung/PDF/Integratorglied.pdf Graphic file (type pdf)
 
@@ -1502,7 +1502,7 @@ File: Abbildungen/Modellbildung/PDF/Integratorglied.pdf Graphic file (type pdf)
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Integratorglied.pdf  use
 d on input line 163.
 (pdftex.def)             Requested size: 156.84514pt x 113.38774pt.
-<Abbildungen/Modellbildung/PDF/Summationsglied.pdf, id=641, 127.625pt x 54.8293
+<Abbildungen/Modellbildung/PDF/Summationsglied.pdf, id=628, 127.625pt x 54.8293
 6pt>
 File: Abbildungen/Modellbildung/PDF/Summationsglied.pdf Graphic file (type pdf)
 
@@ -1510,7 +1510,7 @@ File: Abbildungen/Modellbildung/PDF/Summationsglied.pdf Graphic file (type pdf)
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Summationsglied.pdf  use
 d on input line 178.
 (pdftex.def)             Requested size: 112.03273pt x 48.13284pt.
-<Abbildungen/Modellbildung/PDF/Wirkschaltplan.pdf, id=644, 325.70012pt x 97.550
+<Abbildungen/Modellbildung/PDF/Wirkschaltplan.pdf, id=631, 325.70012pt x 97.550
 23pt>
 File: Abbildungen/Modellbildung/PDF/Wirkschaltplan.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/Wirkschaltplan.pdf>
@@ -1542,7 +1542,7 @@ pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/Summationsgl
 ied.pdf): PDF inclusion: multiple pdfs with page group included in a single pag
 e
 >] [17 <./Abbildungen/Modellbildung/PDF/Wirkschaltplan.pdf>]
-<Abbildungen/Modellbildung/PDF/Summation_Linearitaet.pdf, id=672, 460.11722pt x
+<Abbildungen/Modellbildung/PDF/Summation_Linearitaet.pdf, id=659, 460.11722pt x
  76.55927pt>
 File: Abbildungen/Modellbildung/PDF/Summation_Linearitaet.pdf Graphic file (typ
 e pdf)
@@ -1556,7 +1556,7 @@ Overfull \hbox (3.80031pt too wide) in paragraph at lines 227--240
 grö-ÿe ent-steht (Ab-bil-dung []2.4[]).
  []
 
-<Abbildungen/Modellbildung/PDF/Homogenitaet.pdf, id=675, 560.77626pt x 35.1546p
+<Abbildungen/Modellbildung/PDF/Homogenitaet.pdf, id=662, 560.77626pt x 35.1546p
 t>
 File: Abbildungen/Modellbildung/PDF/Homogenitaet.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/Homogenitaet.pdf>
@@ -1567,7 +1567,7 @@ n input line 248.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [18 <./Abbildungen/Modellbildung/PDF/Summation_Linearitaet.pdf>]
-<Abbildungen/Modellbildung/PDF/NichtlinKurve.pdf, id=688, 99.3331pt x 55.58978p
+<Abbildungen/Modellbildung/PDF/NichtlinKurve.pdf, id=675, 99.3331pt x 55.58978p
 t>
 File: Abbildungen/Modellbildung/PDF/NichtlinKurve.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/NichtlinKurve.pdf>
@@ -1580,7 +1580,7 @@ ldung/PDF/NichtlinKurve.pdf
 pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/NichtlinKurv
 e.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<Abbildungen/Modellbildung/PDF/Zeitinvariant.pdf, id=705, 88.46687pt x 41.90718
+<Abbildungen/Modellbildung/PDF/Zeitinvariant.pdf, id=692, 88.46687pt x 41.90718
 pt>
 File: Abbildungen/Modellbildung/PDF/Zeitinvariant.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/Zeitinvariant.pdf>
@@ -1588,7 +1588,7 @@ Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Zeitinvariant.pdf  used
 on input line 318.
 (pdftex.def)             Requested size: 246.47339pt x 116.77333pt.
  [20 <./Abbildungen/Modellbildung/PDF/Zeitinvariant.pdf>]
-<Abbildungen/Modellbildung/PDF/Abtastglied.pdf, id=718, 87.33755pt x 62.61116pt
+<Abbildungen/Modellbildung/PDF/Abtastglied.pdf, id=705, 87.33755pt x 62.61116pt
 >
 File: Abbildungen/Modellbildung/PDF/Abtastglied.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/Abtastglied.pdf>
@@ -1596,7 +1596,7 @@ Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Abtastglied.pdf  used on
  input line 337.
 (pdftex.def)             Requested size: 179.24963pt x 128.51514pt.
  [21 <./Abbildungen/Modellbildung/PDF/Abtastglied.pdf>] [22] [23] [24]
-<Abbildungen/Modellbildung/PDF/MasseFederDaempfer.pdf, id=773, 320.91277pt x 15
+<Abbildungen/Modellbildung/PDF/MasseFederDaempfer.pdf, id=760, 320.91277pt x 15
 8.12318pt>
 File: Abbildungen/Modellbildung/PDF/MasseFederDaempfer.pdf Graphic file (type p
 df)
@@ -1609,7 +1609,7 @@ used on input line 562.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [25]
-<Abbildungen/Modellbildung/PDF/Fourierreihe.pdf, id=784, 229.62396pt x 135.0018
+<Abbildungen/Modellbildung/PDF/Fourierreihe.pdf, id=771, 229.62396pt x 135.0018
 6pt>
 File: Abbildungen/Modellbildung/PDF/Fourierreihe.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/Fourierreihe.pdf>
@@ -1622,7 +1622,7 @@ dellbildung/PDF/Fourierreihe.pdf
 pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/Fourierreihe
 .pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<Abbildungen/Modellbildung/PDF/DiskretesSpektrum.pdf, id=797, 400.29144pt x 131
+<Abbildungen/Modellbildung/PDF/DiskretesSpektrum.pdf, id=784, 400.29144pt x 131
 .11693pt>
 File: Abbildungen/Modellbildung/PDF/DiskretesSpektrum.pdf Graphic file (type pd
 f)
@@ -1631,7 +1631,7 @@ Package pdftex.def Info: Abbildungen/Modellbildung/PDF/DiskretesSpektrum.pdf  u
 sed on input line 612.
 (pdftex.def)             Requested size: 336.0982pt x 110.09143pt.
  [27 <./Abbildungen/Modellbildung/PDF/DiskretesSpektrum.pdf>]
-<Abbildungen/Modellbildung/PDF/Frequenzgang.pdf, id=806, 401.05978pt x 106.3866
+<Abbildungen/Modellbildung/PDF/Frequenzgang.pdf, id=793, 401.05978pt x 106.3866
 4pt>
 File: Abbildungen/Modellbildung/PDF/Frequenzgang.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/Frequenzgang.pdf>
@@ -1643,7 +1643,7 @@ n input line 667.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [28]
-<Abbildungen/Modellbildung/PDF/Ortskurve.pdf, id=817, 149.68712pt x 91.76869pt>
+<Abbildungen/Modellbildung/PDF/Ortskurve.pdf, id=804, 149.68712pt x 91.76869pt>
 
 File: Abbildungen/Modellbildung/PDF/Ortskurve.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/Ortskurve.pdf>
@@ -1655,7 +1655,7 @@ nput line 713.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [29 <./Abbildungen/Modellbildung/PDF/Frequenzgang.pdf>]
-<Abbildungen/Systemanalyse/PDF/OrtskurveIT1.pdf, id=829, 151.96823pt x 112.4486
+<Abbildungen/Systemanalyse/PDF/OrtskurveIT1.pdf, id=816, 151.96823pt x 112.4486
 2pt>
 File: Abbildungen/Systemanalyse/PDF/OrtskurveIT1.pdf Graphic file (type pdf)
 <use Abbildungen/Systemanalyse/PDF/OrtskurveIT1.pdf>
@@ -1668,7 +1668,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [30 <./Abbildungen/Modellbildung/PDF/Ortskurve.pdf>] [31 <./Abbildungen/Systema
 nalyse/PDF/OrtskurveIT1.pdf>]
-<Abbildungen/Modellbildung/PDF/PT1gliedBode.pdf, id=846, 532.979pt x 162.6169pt
+<Abbildungen/Modellbildung/PDF/PT1gliedBode.pdf, id=833, 532.979pt x 162.6169pt
 >
 File: Abbildungen/Modellbildung/PDF/PT1gliedBode.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/PT1gliedBode.pdf>
@@ -1676,7 +1676,7 @@ Package pdftex.def Info: Abbildungen/Modellbildung/PDF/PT1gliedBode.pdf  used o
 n input line 876.
 (pdftex.def)             Requested size: 403.31511pt x 123.05663pt.
  [32]
-<Abbildungen/Modellbildung/PDF/LaplaceTransformation.pdf, id=854, 204.07028pt x
+<Abbildungen/Modellbildung/PDF/LaplaceTransformation.pdf, id=841, 204.07028pt x
  142.57385pt>
 File: Abbildungen/Modellbildung/PDF/LaplaceTransformation.pdf Graphic file (typ
 e pdf)
@@ -1695,7 +1695,7 @@ Underfull \vbox (badness 2181) has occurred while \output is active []
 
  [34]
 [35]
-<Abbildungen/Modellbildung/PDF/PolNullstellen.pdf, id=899, 162.36612pt x 90.243
+<Abbildungen/Modellbildung/PDF/PolNullstellen.pdf, id=886, 162.36612pt x 90.243
 4pt>
 File: Abbildungen/Modellbildung/PDF/PolNullstellen.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/PolNullstellen.pdf>
@@ -1707,13 +1707,13 @@ Package pdftex.def Info: Abbildungen/Modellbildung/PDF/PolNullstellen.pdf  used
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [36] [37 <./Abbildungen/Modellbildung/PDF/PolNullstellen.pdf>] [38]
-<Abbildungen/Modellbildung/PDF/Igliedpn.pdf, id=932, 146.59453pt x 90.24341pt>
+<Abbildungen/Modellbildung/PDF/Igliedpn.pdf, id=919, 146.59453pt x 90.24341pt>
 File: Abbildungen/Modellbildung/PDF/Igliedpn.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/Igliedpn.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Igliedpn.pdf  used on in
 put line 1256.
 (pdftex.def)             Requested size: 179.24963pt x 110.34602pt.
-<Abbildungen/Modellbildung/PDF/IgliedSprung.pdf, id=933, 217.36343pt x 121.0366
+<Abbildungen/Modellbildung/PDF/IgliedSprung.pdf, id=920, 217.36343pt x 121.0366
 2pt>
 File: Abbildungen/Modellbildung/PDF/IgliedSprung.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/IgliedSprung.pdf>
@@ -1725,7 +1725,7 @@ n input line 1265.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [39 <./Abbildungen/Modellbildung/PDF/Igliedpn.pdf>]
-<Abbildungen/Modellbildung/PDF/IgliedBode.pdf, id=944, 532.979pt x 155.87216pt>
+<Abbildungen/Modellbildung/PDF/IgliedBode.pdf, id=931, 532.979pt x 155.87216pt>
 
 File: Abbildungen/Modellbildung/PDF/IgliedBode.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/IgliedBode.pdf>
@@ -1737,7 +1737,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1285--1294
 
  []
 
-<Abbildungen/Modellbildung/PDF/IgliedBlock.pdf, id=946, 335.5265pt x 57.18263pt
+<Abbildungen/Modellbildung/PDF/IgliedBlock.pdf, id=933, 335.5265pt x 57.18263pt
 >
 File: Abbildungen/Modellbildung/PDF/IgliedBlock.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/IgliedBlock.pdf>
@@ -1753,7 +1753,7 @@ dung/PDF/IgliedBode.pdf
 pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/IgliedBode.p
 df): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<Abbildungen/Modellbildung/PDF/Dgliedpn.pdf, id=955, 144.88503pt x 90.2434pt>
+<Abbildungen/Modellbildung/PDF/Dgliedpn.pdf, id=942, 144.88503pt x 90.2434pt>
 File: Abbildungen/Modellbildung/PDF/Dgliedpn.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/Dgliedpn.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Dgliedpn.pdf  used on in
@@ -1765,14 +1765,14 @@ dung/PDF/Dgliedpn.pdf
 pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/Dgliedpn.pdf
 ): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<Abbildungen/Modellbildung/PDF/DgliedBode.pdf, id=971, 532.979pt x 155.87218pt>
+<Abbildungen/Modellbildung/PDF/DgliedBode.pdf, id=958, 532.979pt x 155.87218pt>
 
 File: Abbildungen/Modellbildung/PDF/DgliedBode.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/DgliedBode.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/DgliedBode.pdf  used on 
 input line 1372.
 (pdftex.def)             Requested size: 358.50612pt x 104.84764pt.
-<Abbildungen/Modellbildung/PDF/DgliedBlock.pdf, id=972, 338.7732pt x 57.18147pt
+<Abbildungen/Modellbildung/PDF/DgliedBlock.pdf, id=959, 338.7732pt x 57.18147pt
 >
 File: Abbildungen/Modellbildung/PDF/DgliedBlock.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/DgliedBlock.pdf>
@@ -1785,21 +1785,21 @@ ung/PDF/DgliedBlock.pdf
 pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/DgliedBlock.
 pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<Abbildungen/Modellbildung/PDF/TgliedSprung.pdf, id=984, 217.36348pt x 121.0366
+<Abbildungen/Modellbildung/PDF/TgliedSprung.pdf, id=971, 217.36348pt x 121.0366
 pt>
 File: Abbildungen/Modellbildung/PDF/TgliedSprung.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/TgliedSprung.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/TgliedSprung.pdf  used o
 n input line 1422.
 (pdftex.def)             Requested size: 179.24963pt x 99.81393pt.
-<Abbildungen/Modellbildung/PDF/TgliedBode.pdf, id=986, 566.05171pt x 155.87216p
+<Abbildungen/Modellbildung/PDF/TgliedBode.pdf, id=973, 566.05171pt x 155.87216p
 t>
 File: Abbildungen/Modellbildung/PDF/TgliedBode.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/TgliedBode.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/TgliedBode.pdf  used on 
 input line 1444.
 (pdftex.def)             Requested size: 403.31511pt x 111.06242pt.
-<Abbildungen/Modellbildung/PDF/TgliedBlock.pdf, id=987, 164.92062pt x 50.13455p
+<Abbildungen/Modellbildung/PDF/TgliedBlock.pdf, id=974, 164.92062pt x 50.13455p
 t>
 File: Abbildungen/Modellbildung/PDF/TgliedBlock.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/TgliedBlock.pdf>
@@ -1816,14 +1816,14 @@ dung/PDF/TgliedBode.pdf
 pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/TgliedBode.p
 df): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<Abbildungen/Modellbildung/PDF/PT1gliedpn.pdf, id=997, 146.59456pt x 90.2434pt>
+<Abbildungen/Modellbildung/PDF/PT1gliedpn.pdf, id=984, 146.59456pt x 90.2434pt>
 
 File: Abbildungen/Modellbildung/PDF/PT1gliedpn.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/PT1gliedpn.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/PT1gliedpn.pdf  used on 
 input line 1492.
 (pdftex.def)             Requested size: 179.24963pt x 110.346pt.
-<Abbildungen/Modellbildung/PDF/PT1gliedSprung.pdf, id=999, 217.36343pt x 121.03
+<Abbildungen/Modellbildung/PDF/PT1gliedSprung.pdf, id=986, 217.36343pt x 121.03
 662pt>
 File: Abbildungen/Modellbildung/PDF/PT1gliedSprung.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/PT1gliedSprung.pdf>
@@ -1845,15 +1845,15 @@ File: Abbildungen/Modellbildung/PDF/PT1gliedBode.pdf Graphic file (type pdf)
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/PT1gliedBode.pdf  used o
 n input line 1526.
 (pdftex.def)             Requested size: 403.31511pt x 123.05663pt.
-<Abbildungen/Modellbildung/PDF/PT1gliedBlock.pdf, id=1010, 164.92062pt x 50.134
-54pt>
+<Abbildungen/Modellbildung/PDF/PT1gliedBlock.pdf, id=997, 164.92062pt x 50.1345
+4pt>
 File: Abbildungen/Modellbildung/PDF/PT1gliedBlock.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/PT1gliedBlock.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/PT1gliedBlock.pdf  used 
 on input line 1535.
 (pdftex.def)             Requested size: 134.44064pt x 40.8719pt.
  [45 <./Abbildungen/Modellbildung/PDF/PT1gliedSprung.pdf>]
-<Abbildungen/Modellbildung/PDF/PT2gliedpn.pdf, id=1019, 204.48003pt x 133.79596
+<Abbildungen/Modellbildung/PDF/PT2gliedpn.pdf, id=1006, 204.48003pt x 133.79596
 pt>
 File: Abbildungen/Modellbildung/PDF/PT2gliedpn.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/PT2gliedpn.pdf>
@@ -1861,7 +1861,7 @@ Package pdftex.def Info: Abbildungen/Modellbildung/PDF/PT2gliedpn.pdf  used on
 input line 1602.
 (pdftex.def)             Requested size: 268.8813pt x 175.94359pt.
  [46 <./Abbildungen/Modellbildung/PDF/PT1gliedBlock.pdf>]
-<Abbildungen/Modellbildung/PDF/PT2gliedSprung.pdf, id=1028, 453.1734pt x 140.21
+<Abbildungen/Modellbildung/PDF/PT2gliedSprung.pdf, id=1015, 453.1734pt x 140.21
 408pt>
 File: Abbildungen/Modellbildung/PDF/PT2gliedSprung.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/PT2gliedSprung.pdf>
@@ -1876,7 +1876,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 5245) has occurred while \output is active []
 
  [47 <./Abbildungen/Modellbildung/PDF/PT2gliedpn.pdf>]
-<Abbildungen/Modellbildung/PDF/PT2gliedBode.pdf, id=1035, 534.04878pt x 344.130
+<Abbildungen/Modellbildung/PDF/PT2gliedBode.pdf, id=1022, 534.04878pt x 344.130
 52pt>
 File: Abbildungen/Modellbildung/PDF/PT2gliedBode.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/PT2gliedBode.pdf>
@@ -1888,7 +1888,7 @@ n input line 1654.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [48 <./Abbildungen/Modellbildung/PDF/PT2gliedSprung.pdf>]
-<Abbildungen/Modellbildung/PDF/PT2gliedBlock.pdf, id=1043, 164.92062pt x 50.564
+<Abbildungen/Modellbildung/PDF/PT2gliedBlock.pdf, id=1030, 164.92062pt x 50.564
 65pt>
 File: Abbildungen/Modellbildung/PDF/PT2gliedBlock.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/PT2gliedBlock.pdf>
@@ -1900,56 +1900,131 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [49 <./Abbildungen/Modellbildung/PDF/PT2gliedBode.pdf>] [50 <./Abbildungen/Mod
 ellbildung/PDF/PT2gliedBlock.pdf>]
+<Abbildungen/Modellbildung/PDF/ExperimentelPT1.pdf, id=1048, 217.36342pt x 121.
+03662pt>
+File: Abbildungen/Modellbildung/PDF/ExperimentelPT1.pdf Graphic file (type pdf)
+
+<use Abbildungen/Modellbildung/PDF/ExperimentelPT1.pdf>
+Package pdftex.def Info: Abbildungen/Modellbildung/PDF/ExperimentelPT1.pdf  use
+d on input line 1964.
+(pdftex.def)             Requested size: 201.65755pt x 112.2914pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[51]
+Underfull \vbox (badness 2486) has occurred while \output is active []
+
+ [52 <./Abbildungen/Modellbildung/PDF/ExperimentelPT1.pdf>]
+<Abbildungen/Modellbildung/PDF/ExperimentelPTn.pdf, id=1069, 217.36343pt x 136.
+97208pt>
+File: Abbildungen/Modellbildung/PDF/ExperimentelPTn.pdf Graphic file (type pdf)
+
+<use Abbildungen/Modellbildung/PDF/ExperimentelPTn.pdf>
+Package pdftex.def Info: Abbildungen/Modellbildung/PDF/ExperimentelPTn.pdf  use
+d on input line 2102.
+(pdftex.def)             Requested size: 201.65755pt x 127.07545pt.
+<Abbildungen/Modellbildung/PDF/ExperimentelPT2.pdf, id=1073, 233.67531pt x 176.
+807pt>
+File: Abbildungen/Modellbildung/PDF/ExperimentelPT2.pdf Graphic file (type pdf)
+
+<use Abbildungen/Modellbildung/PDF/ExperimentelPT2.pdf>
+Package pdftex.def Info: Abbildungen/Modellbildung/PDF/ExperimentelPT2.pdf  use
+d on input line 2115.
+(pdftex.def)             Requested size: 246.47339pt x 186.49185pt.
+ [53 <./Abbildungen/Modellbildung/PDF/ExperimentelPTn.pdf>] [54 <./Abbildungen/
+Modellbildung/PDF/ExperimentelPT2.pdf>] [55]
 File: Abbildungen/Modellbildung/PDF/Kennlinienglied.pdf Graphic file (type pdf)
 
 <use Abbildungen/Modellbildung/PDF/Kennlinienglied.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Kennlinienglied.pdf  use
-d on input line 1847.
+d on input line 2202.
 (pdftex.def)             Requested size: 156.84514pt x 29.86221pt.
-<Abbildungen/Modellbildung/PDF/Magnetisierungskurve.pdf, id=1062, 169.18208pt x
+<Abbildungen/Modellbildung/PDF/Magnetisierungskurve.pdf, id=1101, 169.18208pt x
  35.15459pt>
 File: Abbildungen/Modellbildung/PDF/Magnetisierungskurve.pdf Graphic file (type
  pdf)
 <use Abbildungen/Modellbildung/PDF/Magnetisierungskurve.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Magnetisierungskurve.pdf
-  used on input line 1861.
+  used on input line 2216.
 (pdftex.def)             Requested size: 145.64119pt x 30.26453pt.
-<Abbildungen/Modellbildung/PDF/Zweipunktschalter.pdf, id=1063, 168.39157pt x 35
+<Abbildungen/Modellbildung/PDF/Zweipunktschalter.pdf, id=1102, 168.39157pt x 35
 .15459pt>
 File: Abbildungen/Modellbildung/PDF/Zweipunktschalter.pdf Graphic file (type pd
 f)
 <use Abbildungen/Modellbildung/PDF/Zweipunktschalter.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Zweipunktschalter.pdf  u
-sed on input line 1875.
+sed on input line 2230.
 (pdftex.def)             Requested size: 145.64119pt x 30.40508pt.
 
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 1868--1877
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 2223--2232
 []$[]$ $[]$ 
  []
 
-<Abbildungen/Modellbildung/PDF/ZweipunktschalterHyst.pdf, id=1064, 168.39156pt 
+<Abbildungen/Modellbildung/PDF/ZweipunktschalterHyst.pdf, id=1103, 168.39156pt 
 x 35.1546pt>
 File: Abbildungen/Modellbildung/PDF/ZweipunktschalterHyst.pdf Graphic file (typ
 e pdf)
 <use Abbildungen/Modellbildung/PDF/ZweipunktschalterHyst.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/ZweipunktschalterHyst.pd
-f  used on input line 1889.
+f  used on input line 2244.
 (pdftex.def)             Requested size: 145.64119pt x 30.40508pt.
-<Abbildungen/Modellbildung/PDF/Betragsglied.pdf, id=1065, 168.39156pt x 80.0192
+<Abbildungen/Modellbildung/PDF/Betragsglied.pdf, id=1104, 168.39156pt x 80.0192
 6pt>
 File: Abbildungen/Modellbildung/PDF/Betragsglied.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/Betragsglied.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Betragsglied.pdf  used o
-n input line 1903.
+n input line 2258.
 (pdftex.def)             Requested size: 156.84514pt x 74.5319pt.
-<Abbildungen/Modellbildung/PDF/Multiplizierer.pdf, id=1066, 131.53246pt x 76.48
+<Abbildungen/Modellbildung/PDF/Multiplizierer.pdf, id=1105, 131.53246pt x 76.48
 698pt>
 File: Abbildungen/Modellbildung/PDF/Multiplizierer.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/Multiplizierer.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Multiplizierer.pdf  used
- on input line 1917.
+ on input line 2272.
 (pdftex.def)             Requested size: 112.03273pt x 65.14728pt.
-[51 <./Abbildungen/Modellbildung/PDF/Magnetisierungskurve.pdf> <./Abbildungen/M
+<Abbildungen/Modellbildung/PDF/Dividierer.pdf, id=1106, 130.87747pt x 35.1546pt
+>
+File: Abbildungen/Modellbildung/PDF/Dividierer.pdf Graphic file (type pdf)
+<use Abbildungen/Modellbildung/PDF/Dividierer.pdf>
+Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Dividierer.pdf  used on 
+input line 2284.
+(pdftex.def)             Requested size: 112.03273pt x 30.0929pt.
+
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 2277--2286
+[]$[]$ $[]$ 
+ []
+
+<Abbildungen/Modellbildung/PDF/Quadrierer.pdf, id=1107, 130.87747pt x 35.1546pt
+>
+File: Abbildungen/Modellbildung/PDF/Quadrierer.pdf Graphic file (type pdf)
+<use Abbildungen/Modellbildung/PDF/Quadrierer.pdf>
+Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Quadrierer.pdf  used on 
+input line 2301.
+(pdftex.def)             Requested size: 112.03273pt x 30.0929pt.
+<Abbildungen/Modellbildung/PDF/Ratifizierer.pdf, id=1108, 130.87747pt x 35.1546
+pt>
+File: Abbildungen/Modellbildung/PDF/Ratifizierer.pdf Graphic file (type pdf)
+<use Abbildungen/Modellbildung/PDF/Ratifizierer.pdf>
+Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Ratifizierer.pdf  used o
+n input line 2315.
+(pdftex.def)             Requested size: 112.03273pt x 30.0929pt.
+<Abbildungen/Modellbildung/PDF/Invertierer.pdf, id=1109, 130.87747pt x 35.1546p
+t>
+File: Abbildungen/Modellbildung/PDF/Invertierer.pdf Graphic file (type pdf)
+<use Abbildungen/Modellbildung/PDF/Invertierer.pdf>
+Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Invertierer.pdf  used on
+ input line 2329.
+(pdftex.def)             Requested size: 112.03273pt x 30.0929pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2189--2338
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[56 <./Abbildungen/Modellbildung/PDF/Magnetisierungskurve.pdf> <./Abbildungen/M
 odellbildung/PDF/Zweipunktschalter.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/Zweipunktsch
@@ -1969,46 +2044,25 @@ pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/Betragsglied
 pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/Multiplizier
 er.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 
->]
-<Abbildungen/Modellbildung/PDF/Dividierer.pdf, id=1077, 130.87747pt x 35.1546pt
->
-File: Abbildungen/Modellbildung/PDF/Dividierer.pdf Graphic file (type pdf)
-<use Abbildungen/Modellbildung/PDF/Dividierer.pdf>
-Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Dividierer.pdf  used on 
-input line 1935.
-(pdftex.def)             Requested size: 112.03273pt x 30.0929pt.
+> <./Abbildungen/Modellbildung/PDF/Dividierer.pdf
 
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 1928--1937
-[]$[]$ $[]$ 
- []
-
-<Abbildungen/Modellbildung/PDF/Quadrierer.pdf, id=1078, 130.87747pt x 35.1546pt
->
-File: Abbildungen/Modellbildung/PDF/Quadrierer.pdf Graphic file (type pdf)
-<use Abbildungen/Modellbildung/PDF/Quadrierer.pdf>
-Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Quadrierer.pdf  used on 
-input line 1949.
-(pdftex.def)             Requested size: 112.03273pt x 30.0929pt.
-<Abbildungen/Modellbildung/PDF/Ratifizierer.pdf, id=1079, 130.87747pt x 35.1546
-pt>
-File: Abbildungen/Modellbildung/PDF/Ratifizierer.pdf Graphic file (type pdf)
-<use Abbildungen/Modellbildung/PDF/Ratifizierer.pdf>
-Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Ratifizierer.pdf  used o
-n input line 1963.
-(pdftex.def)             Requested size: 112.03273pt x 30.0929pt.
-<Abbildungen/Modellbildung/PDF/Invertierer.pdf, id=1080, 130.87747pt x 35.1546p
-t>
-File: Abbildungen/Modellbildung/PDF/Invertierer.pdf Graphic file (type pdf)
-<use Abbildungen/Modellbildung/PDF/Invertierer.pdf>
-Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Invertierer.pdf  used on
- input line 1977.
-(pdftex.def)             Requested size: 112.03273pt x 30.0929pt.
-[52 <./Abbildungen/Modellbildung/PDF/Dividierer.pdf> <./Abbildungen/Modellbildu
-ng/PDF/Quadrierer.pdf
-
-pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/Quadrierer.p
+pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/Dividierer.p
 df): PDF inclusion: multiple pdfs with page group included in a single page
-> <./Abbildungen/Modellbildung/PDF/Ratifizierer.pdf
+>]
+<Abbildungen/Modellbildung/PDF/WirkschaltplanStationaer.pdf, id=1124, 537.07585
+pt x 101.96301pt>
+File: Abbildungen/Modellbildung/PDF/WirkschaltplanStationaer.pdf Graphic file (
+type pdf)
+<use Abbildungen/Modellbildung/PDF/WirkschaltplanStationaer.pdf>
+Package pdftex.def Info: Abbildungen/Modellbildung/PDF/WirkschaltplanStationaer
+.pdf  used on input line 2374.
+(pdftex.def)             Requested size: 448.13095pt x 85.07735pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[57 <./Abbildungen/Modellbildung/PDF/Quadrierer.pdf> <./Abbildungen/Modellbildu
+ng/PDF/Ratifizierer.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/Ratifizierer
 .pdf): PDF inclusion: multiple pdfs with page group included in a single page
@@ -2017,143 +2071,84 @@ pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/Ratifizierer
 pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/Invertierer.
 pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<Abbildungen/Modellbildung/PDF/ParameterSchaetzung.pdf, id=1095, 264.28665pt x 
-126.95187pt>
-File: Abbildungen/Modellbildung/PDF/ParameterSchaetzung.pdf Graphic file (type 
-pdf)
-<use Abbildungen/Modellbildung/PDF/ParameterSchaetzung.pdf>
-Package pdftex.def Info: Abbildungen/Modellbildung/PDF/ParameterSchaetzung.pdf 
- used on input line 2046.
-(pdftex.def)             Requested size: 313.69029pt x 150.68523pt.
-
-Underfull \vbox (badness 1472) has occurred while \output is active []
-
- [53 <./Abbildungen/Modellbildung/PDF/ParameterSchaetzung.pdf>] [54]
-<Abbildungen/Modellbildung/PDF/ExperimentelPT1.pdf, id=1113, 217.36342pt x 121.
-03662pt>
-File: Abbildungen/Modellbildung/PDF/ExperimentelPT1.pdf Graphic file (type pdf)
-
-<use Abbildungen/Modellbildung/PDF/ExperimentelPT1.pdf>
-Package pdftex.def Info: Abbildungen/Modellbildung/PDF/ExperimentelPT1.pdf  use
-d on input line 2117.
-(pdftex.def)             Requested size: 201.65755pt x 112.2914pt.
- [55 <./Abbildungen/Modellbildung/PDF/ExperimentelPT1.pdf>]
-<Abbildungen/Modellbildung/PDF/ExperimentelAllpass.pdf, id=1128, 221.31201pt x 
-125.42206pt>
-File: Abbildungen/Modellbildung/PDF/ExperimentelAllpass.pdf Graphic file (type 
-pdf)
-<use Abbildungen/Modellbildung/PDF/ExperimentelAllpass.pdf>
-Package pdftex.def Info: Abbildungen/Modellbildung/PDF/ExperimentelAllpass.pdf 
- used on input line 2165.
-(pdftex.def)             Requested size: 224.06548pt x 126.98912pt.
-
-Underfull \hbox (badness 1609) in paragraph at lines 2166--2166
-[][][]|\T1/cmr/m/n/12 Schät-zung von Sy-stem-pa-ra-me-tern be-lie-bi-ger Sys-te
--me 1 Ord-nung
- []
-
-[56 <./Abbildungen/Modellbildung/PDF/ExperimentelAllpass.pdf>]
-<Abbildungen/Modellbildung/PDF/ExperimentelPTn.pdf, id=1141, 217.36343pt x 136.
-97208pt>
-File: Abbildungen/Modellbildung/PDF/ExperimentelPTn.pdf Graphic file (type pdf)
-
-<use Abbildungen/Modellbildung/PDF/ExperimentelPTn.pdf>
-Package pdftex.def Info: Abbildungen/Modellbildung/PDF/ExperimentelPTn.pdf  use
-d on input line 2255.
-(pdftex.def)             Requested size: 201.65755pt x 127.07545pt.
-<Abbildungen/Modellbildung/PDF/ExperimentelPT2.pdf, id=1145, 233.67531pt x 176.
-807pt>
-File: Abbildungen/Modellbildung/PDF/ExperimentelPT2.pdf Graphic file (type pdf)
-
-<use Abbildungen/Modellbildung/PDF/ExperimentelPT2.pdf>
-Package pdftex.def Info: Abbildungen/Modellbildung/PDF/ExperimentelPT2.pdf  use
-d on input line 2268.
-(pdftex.def)             Requested size: 246.47339pt x 186.49185pt.
- [57 <./Abbildungen/Modellbildung/PDF/ExperimentelPTn.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [58 <./Abbildungen/Modellbildung/PDF/ExperimentelPT2.pdf>]
-Underfull \vbox (badness 1708) has occurred while \output is active []
-
- [59]
-<Abbildungen/Modellbildung/PDF/WirkschaltplanStationaer.pdf, id=1172, 537.07585
-pt x 101.96301pt>
-File: Abbildungen/Modellbildung/PDF/WirkschaltplanStationaer.pdf Graphic file (
-type pdf)
-<use Abbildungen/Modellbildung/PDF/WirkschaltplanStationaer.pdf>
-Package pdftex.def Info: Abbildungen/Modellbildung/PDF/WirkschaltplanStationaer
-.pdf  used on input line 2378.
-(pdftex.def)             Requested size: 448.13095pt x 85.07735pt.
-
-[60]
-<Abbildungen/Modellbildung/PDF/Linearisierung.pdf, id=1181, 201.474pt x 128.042
+<Abbildungen/Modellbildung/PDF/Linearisierung.pdf, id=1137, 201.474pt x 128.042
 11pt>
 File: Abbildungen/Modellbildung/PDF/Linearisierung.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/Linearisierung.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Linearisierung.pdf  used
- on input line 2395.
+ on input line 2391.
 (pdftex.def)             Requested size: 201.65755pt x 128.16095pt.
- [61 <./Abbildungen/Modellbildung/PDF/WirkschaltplanStationaer.pdf> <./Abbildun
-gen/Modellbildung/PDF/Linearisierung.pdf
-
-pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/Linearisieru
-ng.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-
->]
-<Abbildungen/Modellbildung/PDF/LinearisierungBlock.pdf, id=1194, 265.67964pt x 
+<Abbildungen/Modellbildung/PDF/LinearisierungBlock.pdf, id=1139, 265.67964pt x 
 79.18716pt>
 File: Abbildungen/Modellbildung/PDF/LinearisierungBlock.pdf Graphic file (type 
 pdf)
 <use Abbildungen/Modellbildung/PDF/LinearisierungBlock.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/LinearisierungBlock.pdf 
- used on input line 2426.
+ used on input line 2422.
 (pdftex.def)             Requested size: 224.06548pt x 66.78499pt.
- [62 <./Abbildungen/Modellbildung/PDF/LinearisierungBlock.pdf>]
-<Abbildungen/Modellbildung/PDF/RechenregelnMult.pdf, id=1206, 298.17339pt x 34.
+ [58 <./Abbildungen/Modellbildung/PDF/WirkschaltplanStationaer.pdf> <./Abbildun
+gen/Modellbildung/PDF/Linearisierung.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/Linearisieru
+ng.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+
+>] [59 <./Abbildungen/Modellbildung/PDF/LinearisierungBlock.pdf>]
+<Abbildungen/Modellbildung/PDF/RechenregelnMult.pdf, id=1161, 298.17339pt x 34.
 54442pt>
 File: Abbildungen/Modellbildung/PDF/RechenregelnMult.pdf Graphic file (type pdf
 )
 <use Abbildungen/Modellbildung/PDF/RechenregelnMult.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/RechenregelnMult.pdf  us
-ed on input line 2484.
+ed on input line 2480.
 (pdftex.def)             Requested size: 380.91403pt x 44.13234pt.
-<Abbildungen/Modellbildung/PDF/RechenregelnAddittion.pdf, id=1212, 326.4684pt x
+<Abbildungen/Modellbildung/PDF/RechenregelnAddittion.pdf, id=1167, 326.4684pt x
  90.57277pt>
 File: Abbildungen/Modellbildung/PDF/RechenregelnAddittion.pdf Graphic file (typ
 e pdf)
 <use Abbildungen/Modellbildung/PDF/RechenregelnAddittion.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/RechenregelnAddittion.pd
-f  used on input line 2519.
+f  used on input line 2515.
 (pdftex.def)             Requested size: 380.91403pt x 105.68637pt.
- [63 <./Abbildungen/Modellbildung/PDF/RechenregelnMult.pdf>]
-<Abbildungen/Modellbildung/PDF/RechenregelnRueckkopplung.pdf, id=1227, 309.8348
+ [60 <./Abbildungen/Modellbildung/PDF/RechenregelnMult.pdf>]
+<Abbildungen/Modellbildung/PDF/RechenregelnRueckkopplung.pdf, id=1184, 309.8348
 2pt x 76.16083pt>
 File: Abbildungen/Modellbildung/PDF/RechenregelnRueckkopplung.pdf Graphic file 
 (type pdf)
 <use Abbildungen/Modellbildung/PDF/RechenregelnRueckkopplung.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/RechenregelnRueckkopplun
-g.pdf  used on input line 2555.
+g.pdf  used on input line 2551.
 (pdftex.def)             Requested size: 380.91403pt x 93.63889pt.
- [64 <./Abbildungen/Modellbildung/PDF/RechenregelnAddittion.pdf>]
-<Abbildungen/Modellbildung/PDF/Blockschaltbildvereinfachung.pdf, id=1242, 377.9
+ [61 <./Abbildungen/Modellbildung/PDF/RechenregelnAddittion.pdf> <./Abbildungen
+/Modellbildung/PDF/RechenregelnRueckkopplung.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Abbildungen/Modellbildung/PDF/Rechenregeln
+Rueckkopplung.pdf): PDF inclusion: multiple pdfs with page group included in a 
+single page
+>]
+<Abbildungen/Modellbildung/PDF/Blockschaltbildvereinfachung.pdf, id=1199, 377.9
 384pt x 421.91835pt>
 File: Abbildungen/Modellbildung/PDF/Blockschaltbildvereinfachung.pdf Graphic fi
 le (type pdf)
 <use Abbildungen/Modellbildung/PDF/Blockschaltbildvereinfachung.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/Blockschaltbildvereinfac
-hung.pdf  used on input line 2588.
+hung.pdf  used on input line 2584.
 (pdftex.def)             Requested size: 448.13095pt x 500.31865pt.
-) [65 <./Abbildungen/Modellbildung/PDF/RechenregelnRueckkopplung.pdf>] [66 <./A
-bbildungen/Modellbildung/PDF/Blockschaltbildvereinfachung.pdf>]
+) [62] [63 <./Abbildungen/Modellbildung/PDF/Blockschaltbildvereinfachung.pdf>]
 \openout2 = `Kapitel/Kapitel_3_Systemanalyse/Systemanalyse.aux'.
 
- (Kapitel/Kapitel_3_Systemanalyse/Systemanalyse.tex
+ (Kapitel/Kapitel_3_Systemanalyse/Systemanalyse.tex [64
+
+
+
+
+
+]
 chapter 3.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 7.
 
-<Abbildungen/Systemanalyse/PDF/Standardregelkreis.pdf, id=1265, 360.45088pt x 1
+<Abbildungen/Systemanalyse/PDF/Standardregelkreis.pdf, id=1224, 360.45088pt x 1
 20.33986pt>
 File: Abbildungen/Systemanalyse/PDF/Standardregelkreis.pdf Graphic file (type p
 df)
@@ -2161,14 +2156,8 @@ df)
 Package pdftex.def Info: Abbildungen/Systemanalyse/PDF/Standardregelkreis.pdf  
 used on input line 14.
 (pdftex.def)             Requested size: 425.72302pt x 142.13567pt.
-[67
-
-
-
-
-
- <./Abbildungen/Systemanalyse/PDF/Standardregelkreis.pdf>]
-<Abbildungen/Systemanalyse/PDF/StandardregelkreisEinfach.pdf, id=1275, 354.4475
+[65 <./Abbildungen/Systemanalyse/PDF/Standardregelkreis.pdf>]
+<Abbildungen/Systemanalyse/PDF/StandardregelkreisEinfach.pdf, id=1233, 354.4475
 1pt x 73.90375pt>
 File: Abbildungen/Systemanalyse/PDF/StandardregelkreisEinfach.pdf Graphic file 
 (type pdf)
@@ -2180,29 +2169,24 @@ h.pdf  used on input line 79.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[68] [69 <./Abbildungen/Systemanalyse/PDF/StandardregelkreisEinfach.pdf>]
-<Abbildungen/Modellbildung/PDF/RCglied.pdf, id=1289, 175.73766pt x 94.50061pt>
+[66] [67 <./Abbildungen/Systemanalyse/PDF/StandardregelkreisEinfach.pdf>]
+<Abbildungen/Modellbildung/PDF/RCglied.pdf, id=1248, 175.73766pt x 94.50061pt>
 File: Abbildungen/Modellbildung/PDF/RCglied.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/RCglied.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/RCglied.pdf  used on inp
 ut line 167.
 (pdftex.def)             Requested size: 313.69029pt x 168.69936pt.
 
-[70 <./Abbildungen/Modellbildung/PDF/RCglied.pdf>]
-<Abbildungen/Systemanalyse/PDF/InversesPendel.pdf, id=1300, 277.79893pt x 216.4
+[68 <./Abbildungen/Modellbildung/PDF/RCglied.pdf>]
+<Abbildungen/Systemanalyse/PDF/InversesPendel.pdf, id=1259, 277.79893pt x 216.4
 6907pt>
 File: Abbildungen/Systemanalyse/PDF/InversesPendel.pdf Graphic file (type pdf)
 <use Abbildungen/Systemanalyse/PDF/InversesPendel.pdf>
 Package pdftex.def Info: Abbildungen/Systemanalyse/PDF/InversesPendel.pdf  used
  on input line 182.
 (pdftex.def)             Requested size: 224.06548pt x 174.59909pt.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 193.
-
-[71 <./Abbildungen/Systemanalyse/PDF/InversesPendel.pdf>] [72]
-<Abbildungen/Systemanalyse/PDF/LinkeHandRegel.pdf, id=1319, 183.7362pt x 92.910
+ [69 <./Abbildungen/Systemanalyse/PDF/InversesPendel.pdf>]
+<Abbildungen/Systemanalyse/PDF/LinkeHandRegel.pdf, id=1272, 183.7362pt x 92.910
 32pt>
 File: Abbildungen/Systemanalyse/PDF/LinkeHandRegel.pdf Graphic file (type pdf)
 <use Abbildungen/Systemanalyse/PDF/LinkeHandRegel.pdf>
@@ -2219,10 +2203,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 416--429
 
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<Abbildungen/Systemanalyse/PDF/Ortskurven_Beispiele.pdf, id=1322, 345.52078pt x
+[70 <./Abbildungen/Systemanalyse/PDF/LinkeHandRegel.pdf>]
+<Abbildungen/Systemanalyse/PDF/Ortskurven_Beispiele.pdf, id=1283, 345.52078pt x
  262.47989pt>
 File: Abbildungen/Systemanalyse/PDF/Ortskurven_Beispiele.pdf Graphic file (type
  pdf)
@@ -2230,32 +2212,20 @@ File: Abbildungen/Systemanalyse/PDF/Ortskurven_Beispiele.pdf Graphic file (type
 Package pdftex.def Info: Abbildungen/Systemanalyse/PDF/Ortskurven_Beispiele.pdf
   used on input line 443.
 (pdftex.def)             Requested size: 425.72302pt x 323.42506pt.
-[73]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[74 <./Abbildungen/Systemanalyse/PDF/LinkeHandRegel.pdf>]
-<Abbildungen/Systemanalyse/PDF/Phasenrand.pdf, id=1338, 292.56464pt x 171.13974
+ [71 <./Abbildungen/Systemanalyse/PDF/Ortskurven_Beispiele.pdf>]
+<Abbildungen/Systemanalyse/PDF/Phasenrand.pdf, id=1292, 292.56464pt x 171.13974
 pt>
 File: Abbildungen/Systemanalyse/PDF/Phasenrand.pdf Graphic file (type pdf)
 <use Abbildungen/Systemanalyse/PDF/Phasenrand.pdf>
 Package pdftex.def Info: Abbildungen/Systemanalyse/PDF/Phasenrand.pdf  used on 
 input line 464.
 (pdftex.def)             Requested size: 358.50612pt x 209.71198pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [75 <./Abbildungen/Systemanalyse/PDF/Ortskurven_Beispiele.pdf>] [76 <./Abbildu
-ngen/Systemanalyse/PDF/Phasenrand.pdf>]
+ [72 <./Abbildungen/Systemanalyse/PDF/Phasenrand.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 506--510
 
  []
 
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [77]
-[78]
+[73]) [74]
 \openout2 = `Kapitel/Kapitel_4_Reglerentwurf/Reglerentwurf.aux'.
 
  (Kapitel/Kapitel_4_Reglerentwurf/Reglerentwurf.tex
@@ -2266,21 +2236,21 @@ Overfull \hbox (1.009pt too wide) in paragraph at lines 35--36
 -se-ne Re-gel-kreis wird als E/A-Stabil
  []
 
-[79
+[75
 
 
 
 
 
 ]
-<Abbildungen/Systemanalyse/PDF/Sollwertfolge.pdf, id=1380, 149.6799pt x 77.9613
+<Abbildungen/Systemanalyse/PDF/Sollwertfolge.pdf, id=1328, 149.6799pt x 77.9613
 5pt>
 File: Abbildungen/Systemanalyse/PDF/Sollwertfolge.pdf Graphic file (type pdf)
 <use Abbildungen/Systemanalyse/PDF/Sollwertfolge.pdf>
 Package pdftex.def Info: Abbildungen/Systemanalyse/PDF/Sollwertfolge.pdf  used 
 on input line 74.
 (pdftex.def)             Requested size: 304.72575pt x 158.74162pt.
-<Abbildungen/Systemanalyse/PDF/Stoergroessenausregelung.pdf, id=1384, 155.83272
+<Abbildungen/Systemanalyse/PDF/Stoergroessenausregelung.pdf, id=1332, 155.83272
 pt x 62.99377pt>
 File: Abbildungen/Systemanalyse/PDF/Stoergroessenausregelung.pdf Graphic file (
 type pdf)
@@ -2292,7 +2262,7 @@ Package pdftex.def Info: Abbildungen/Systemanalyse/PDF/Stoergroessenausregelung
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[80] [81 <./Abbildungen/Systemanalyse/PDF/Sollwertfolge.pdf> <./Abbildungen/Sys
+[76] [77 <./Abbildungen/Systemanalyse/PDF/Sollwertfolge.pdf> <./Abbildungen/Sys
 temanalyse/PDF/Stoergroessenausregelung.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Abbildungen/Systemanalyse/PDF/Stoergroesse
@@ -2300,17 +2270,17 @@ nausregelung.pdf): PDF inclusion: multiple pdfs with page group included in a s
 ingle page
 >]
 
-LaTeX Warning: Reference `fig:pglied' on page 82 undefined on input line 120.
+LaTeX Warning: Reference `fig:pglied' on page 78 undefined on input line 120.
 
-<Abbildungen/Modellbildung/PDF/PgliedBlock.pdf, id=1408, 336.56186pt x 57.7527p
+<Abbildungen/Modellbildung/PDF/PgliedBlock.pdf, id=1356, 336.56186pt x 57.7527p
 t>
 File: Abbildungen/Modellbildung/PDF/PgliedBlock.pdf Graphic file (type pdf)
 <use Abbildungen/Modellbildung/PDF/PgliedBlock.pdf>
 Package pdftex.def Info: Abbildungen/Modellbildung/PDF/PgliedBlock.pdf  used on
  input line 126.
 (pdftex.def)             Requested size: 291.28238pt x 49.9871pt.
-[82 <./Abbildungen/Modellbildung/PDF/PgliedBlock.pdf>]
-<Abbildungen/Reglerentwurf/PDF/PIReglerStruktur.pdf, id=1416, 309.78519pt x 132
+[78 <./Abbildungen/Modellbildung/PDF/PgliedBlock.pdf>]
+<Abbildungen/Reglerentwurf/PDF/PIReglerStruktur.pdf, id=1364, 309.78519pt x 132
 .7301pt>
 File: Abbildungen/Reglerentwurf/PDF/PIReglerStruktur.pdf Graphic file (type pdf
 )
@@ -2318,14 +2288,14 @@ File: Abbildungen/Reglerentwurf/PDF/PIReglerStruktur.pdf Graphic file (type pdf
 Package pdftex.def Info: Abbildungen/Reglerentwurf/PDF/PIReglerStruktur.pdf  us
 ed on input line 154.
 (pdftex.def)             Requested size: 224.06548pt x 96.00305pt.
-<Abbildungen/Reglerentwurf/PDF/PIReglerSprung.pdf, id=1417, 169.4344pt x 122.45
+<Abbildungen/Reglerentwurf/PDF/PIReglerSprung.pdf, id=1365, 169.4344pt x 122.45
 48pt>
 File: Abbildungen/Reglerentwurf/PDF/PIReglerSprung.pdf Graphic file (type pdf)
 <use Abbildungen/Reglerentwurf/PDF/PIReglerSprung.pdf>
 Package pdftex.def Info: Abbildungen/Reglerentwurf/PDF/PIReglerSprung.pdf  used
  on input line 162.
 (pdftex.def)             Requested size: 168.0491pt x 121.46043pt.
-<Abbildungen/Reglerentwurf/PDF/PIReglerBlock.pdf, id=1418, 174.27888pt x 52.129
+<Abbildungen/Reglerentwurf/PDF/PIReglerBlock.pdf, id=1366, 174.27888pt x 52.129
 26pt>
 File: Abbildungen/Reglerentwurf/PDF/PIReglerBlock.pdf Graphic file (type pdf)
 <use Abbildungen/Reglerentwurf/PDF/PIReglerBlock.pdf>
@@ -2336,14 +2306,14 @@ on input line 170.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[83 <./Abbildungen/Reglerentwurf/PDF/PIReglerStruktur.pdf> <./Abbildungen/Regle
+[79 <./Abbildungen/Reglerentwurf/PDF/PIReglerStruktur.pdf> <./Abbildungen/Regle
 rentwurf/PDF/PIReglerSprung.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Abbildungen/Reglerentwurf/PDF/PIReglerSpru
 ng.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 
 >]
-<Abbildungen/Reglerentwurf/PDF/PIDReglerStruktur.pdf, id=1427, 309.78522pt x 16
+<Abbildungen/Reglerentwurf/PDF/PIDReglerStruktur.pdf, id=1376, 309.78522pt x 16
 5.68404pt>
 File: Abbildungen/Reglerentwurf/PDF/PIDReglerStruktur.pdf Graphic file (type pd
 f)
@@ -2351,7 +2321,7 @@ f)
 Package pdftex.def Info: Abbildungen/Reglerentwurf/PDF/PIDReglerStruktur.pdf  u
 sed on input line 204.
 (pdftex.def)             Requested size: 246.47339pt x 131.82182pt.
-<Abbildungen/Reglerentwurf/PDF/PIDReglerSprung.pdf, id=1428, 220.78249pt x 122.
+<Abbildungen/Reglerentwurf/PDF/PIDReglerSprung.pdf, id=1377, 220.78249pt x 122.
 4548pt>
 File: Abbildungen/Reglerentwurf/PDF/PIDReglerSprung.pdf Graphic file (type pdf)
 
@@ -2363,7 +2333,7 @@ d on input line 212.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Abbildungen/Reglerentwurf/PDF/PIDReglerBlock.pdf, id=1429, 174.27888pt x 52.42
+<Abbildungen/Reglerentwurf/PDF/PIDReglerBlock.pdf, id=1378, 174.27888pt x 52.42
 178pt>
 File: Abbildungen/Reglerentwurf/PDF/PIDReglerBlock.pdf Graphic file (type pdf)
 <use Abbildungen/Reglerentwurf/PDF/PIDReglerBlock.pdf>
@@ -2373,14 +2343,14 @@ Package pdftex.def Info: Abbildungen/Reglerentwurf/PDF/PIDReglerBlock.pdf  used
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[84 <./Abbildungen/Reglerentwurf/PDF/PIReglerBlock.pdf> <./Abbildungen/Regleren
+[80 <./Abbildungen/Reglerentwurf/PDF/PIReglerBlock.pdf> <./Abbildungen/Regleren
 twurf/PDF/PIDReglerStruktur.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Abbildungen/Reglerentwurf/PDF/PIDReglerStr
 uktur.pdf): PDF inclusion: multiple pdfs with page group included in a single p
 age
 >]
-<Abbildungen/Reglerentwurf/PDF/PIDReglerTechStruktur.pdf, id=1437, 388.07776pt 
+<Abbildungen/Reglerentwurf/PDF/PIDReglerTechStruktur.pdf, id=1386, 388.07776pt 
 x 165.68404pt>
 File: Abbildungen/Reglerentwurf/PDF/PIDReglerTechStruktur.pdf Graphic file (typ
 e pdf)
@@ -2388,7 +2358,7 @@ e pdf)
 Package pdftex.def Info: Abbildungen/Reglerentwurf/PDF/PIDReglerTechStruktur.pd
 f  used on input line 248.
 (pdftex.def)             Requested size: 268.8813pt x 114.7974pt.
-<Abbildungen/Reglerentwurf/PDF/PIDReglerTechSprung.pdf, id=1438, 209.72922pt x 
+<Abbildungen/Reglerentwurf/PDF/PIDReglerTechSprung.pdf, id=1387, 209.72922pt x 
 121.03662pt>
 File: Abbildungen/Reglerentwurf/PDF/PIDReglerTechSprung.pdf Graphic file (type 
 pdf)
@@ -2400,7 +2370,7 @@ Package pdftex.def Info: Abbildungen/Reglerentwurf/PDF/PIDReglerTechSprung.pdf
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Abbildungen/Reglerentwurf/PDF/PIDReglerTechBlock.pdf, id=1439, 174.2789pt x 52
+<Abbildungen/Reglerentwurf/PDF/PIDReglerTechBlock.pdf, id=1388, 174.2789pt x 52
 .71432pt>
 File: Abbildungen/Reglerentwurf/PDF/PIDReglerTechBlock.pdf Graphic file (type p
 df)
@@ -2408,7 +2378,7 @@ df)
 Package pdftex.def Info: Abbildungen/Reglerentwurf/PDF/PIDReglerTechBlock.pdf  
 used on input line 264.
 (pdftex.def)             Requested size: 134.44064pt x 40.66734pt.
-[85 <./Abbildungen/Reglerentwurf/PDF/PIDReglerSprung.pdf> <./Abbildungen/Regler
+[81 <./Abbildungen/Reglerentwurf/PDF/PIDReglerSprung.pdf> <./Abbildungen/Regler
 entwurf/PDF/PIDReglerBlock.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Abbildungen/Reglerentwurf/PDF/PIDReglerBlo
@@ -2420,7 +2390,7 @@ pdfTeX warning: pdflatex.exe (file ./Abbildungen/Reglerentwurf/PDF/PIDReglerTec
 hStruktur.pdf): PDF inclusion: multiple pdfs with page group included in a sing
 le page
 >]
-<Abbildungen/Reglerentwurf/PDF/ZieglerNicholsSchwingung.pdf, id=1454, 562.82426
+<Abbildungen/Reglerentwurf/PDF/ZieglerNicholsSchwingung.pdf, id=1402, 562.82426
 pt x 124.10196pt>
 File: Abbildungen/Reglerentwurf/PDF/ZieglerNicholsSchwingung.pdf Graphic file (
 type pdf)
@@ -2428,14 +2398,18 @@ type pdf)
 Package pdftex.def Info: Abbildungen/Reglerentwurf/PDF/ZieglerNicholsSchwingung
 .pdf  used on input line 287.
 (pdftex.def)             Requested size: 448.13095pt x 98.81396pt.
- [86 <./Abbildungen/Reglerentwurf/PDF/PIDReglerTechSprung.pdf> <./Abbildungen/R
+ [82 <./Abbildungen/Reglerentwurf/PDF/PIDReglerTechSprung.pdf> <./Abbildungen/R
 eglerentwurf/PDF/PIDReglerTechBlock.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Abbildungen/Reglerentwurf/PDF/PIDReglerTec
 hBlock.pdf): PDF inclusion: multiple pdfs with page group included in a single 
 page
 >]
-<Abbildungen/Reglerentwurf/PDF/ZieglerNicholsSprung.pdf, id=1468, 482.16872pt x
+
+LaTeX Warning: Reference `sec:experimental' on page 83 undefined on input line 
+319.
+
+<Abbildungen/Reglerentwurf/PDF/ZieglerNicholsSprung.pdf, id=1415, 482.16872pt x
  136.77283pt>
 File: Abbildungen/Reglerentwurf/PDF/ZieglerNicholsSprung.pdf Graphic file (type
  pdf)
@@ -2444,17 +2418,16 @@ Package pdftex.def Info: Abbildungen/Reglerentwurf/PDF/ZieglerNicholsSprung.pdf
   used on input line 323.
 (pdftex.def)             Requested size: 403.31511pt x 114.40628pt.
 
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[87 <./Abbildungen/Reglerentwurf/PDF/ZieglerNicholsSchwingung.pdf>]
+[83 <./Abbildungen/Reglerentwurf/PDF/ZieglerNicholsSchwingung.pdf>]
 Underfull \vbox (badness 4981) has occurred while \output is active []
 
- [88 <./Abbildungen/Reglerentwurf/PDF/ZieglerNicholsSprung.pdf>]
-<Abbildungen/Reglerentwurf/PDF/PNEntwurf.pdf, id=1487, 86.53064pt x 120.94612pt
+ [84 <./Abbildungen/Reglerentwurf/PDF/ZieglerNicholsSprung.pdf>]
+<Abbildungen/Reglerentwurf/PDF/PNEntwurf.pdf, id=1434, 86.53064pt x 120.94612pt
 >
 File: Abbildungen/Reglerentwurf/PDF/PNEntwurf.pdf Graphic file (type pdf)
 <use Abbildungen/Reglerentwurf/PDF/PNEntwurf.pdf>
@@ -2470,11 +2443,11 @@ i-ses im PN-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[89]
+[85]
 Underfull \vbox (badness 7221) has occurred while \output is active []
 
- [90 <./Abbildungen/Reglerentwurf/PDF/PNEntwurf.pdf>]
-<Abbildungen/Reglerentwurf/PDF/Wurzelortskurven.pdf, id=1499, 264.42578pt x 334
+ [86 <./Abbildungen/Reglerentwurf/PDF/PNEntwurf.pdf>]
+<Abbildungen/Reglerentwurf/PDF/Wurzelortskurven.pdf, id=1447, 264.42578pt x 334
 .9025pt>
 File: Abbildungen/Reglerentwurf/PDF/Wurzelortskurven.pdf Graphic file (type pdf
 )
@@ -2482,8 +2455,8 @@ File: Abbildungen/Reglerentwurf/PDF/Wurzelortskurven.pdf Graphic file (type pdf
 Package pdftex.def Info: Abbildungen/Reglerentwurf/PDF/Wurzelortskurven.pdf  us
 ed on input line 475.
 (pdftex.def)             Requested size: 358.50612pt x 454.0867pt.
- [91] [92 <./Abbildungen/Reglerentwurf/PDF/Wurzelortskurven.pdf>]
-<Abbildungen/Reglerentwurf/PDF/Frequenzkennlinienverfahren.pdf, id=1512, 327.13
+ [87] [88 <./Abbildungen/Reglerentwurf/PDF/Wurzelortskurven.pdf>]
+<Abbildungen/Reglerentwurf/PDF/Frequenzkennlinienverfahren.pdf, id=1459, 327.13
 573pt x 296.37526pt>
 File: Abbildungen/Reglerentwurf/PDF/Frequenzkennlinienverfahren.pdf Graphic fil
 e (type pdf)
@@ -2501,11 +2474,11 @@ Overfull \hbox (3.95013pt too wide) in paragraph at lines 545--547
 quenz
  []
 
-[93]
+[89]
 Underfull \vbox (badness 2600) has occurred while \output is active []
 
- [94 <./Abbildungen/Reglerentwurf/PDF/Frequenzkennlinienverfahren.pdf>]
-<Abbildungen/Reglerentwurf/PDF/FrequenzkennlinieEntwurf.pdf, id=1528, 656.89929
+ [90 <./Abbildungen/Reglerentwurf/PDF/Frequenzkennlinienverfahren.pdf>]
+<Abbildungen/Reglerentwurf/PDF/FrequenzkennlinieEntwurf.pdf, id=1475, 656.89929
 pt x 350.84242pt>
 File: Abbildungen/Reglerentwurf/PDF/FrequenzkennlinieEntwurf.pdf Graphic file (
 type pdf)
@@ -2513,7 +2486,7 @@ type pdf)
 Package pdftex.def Info: Abbildungen/Reglerentwurf/PDF/FrequenzkennlinieEntwurf
 .pdf  used on input line 576.
 (pdftex.def)             Requested size: 448.13095pt x 239.34592pt.
- [95 <./Abbildungen/Reglerentwurf/PDF/FrequenzkennlinieEntwurf.pdf>] [96]
+ [91 <./Abbildungen/Reglerentwurf/PDF/FrequenzkennlinieEntwurf.pdf>] [92]
 Underfull \hbox (badness 10000) in paragraph at lines 634--637
 
  []
@@ -2524,7 +2497,7 @@ Overfull \hbox (14.53957pt too wide) in paragraph at lines 653--654
  sein. $[] \OML/cmm/m/it/12 ![] \OT1/cmr/m/n/12 =
  []
 
-<Abbildungen/Reglerentwurf/PDF/SprungantwortBetragsoptimum.pdf, id=1546, 226.52
+<Abbildungen/Reglerentwurf/PDF/SprungantwortBetragsoptimum.pdf, id=1494, 226.52
 083pt x 144.97873pt>
 File: Abbildungen/Reglerentwurf/PDF/SprungantwortBetragsoptimum.pdf Graphic fil
 e (type pdf)
@@ -2538,7 +2511,7 @@ Underfull \hbox (badness 3746) in paragraph at lines 694--694
 ags-op-ti-mum
  []
 
-) [97] [98 <./Abbildungen/Reglerentwurf/PDF/SprungantwortBetragsoptimum.pdf>]
+) [93] [94 <./Abbildungen/Reglerentwurf/PDF/SprungantwortBetragsoptimum.pdf>]
 (Skript_RT1_DHBW.bbl
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
 0.
@@ -2578,13 +2551,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--44
 
 Underfull \vbox (badness 1521) has occurred while \output is active []
 
- [99
+ [95
 
 
 
 
 ])
-[100] (Skript_RT1_DHBW.aux (Kapitel/Kapitel_1_Grundbegriffe/Grundbegriffe.aux)
+[96] (Skript_RT1_DHBW.aux (Kapitel/Kapitel_1_Grundbegriffe/Grundbegriffe.aux)
 (Kapitel/Kapitel_2_Modellbildung/Modellbildung.aux)
 (Kapitel/Kapitel_3_Systemanalyse/Systemanalyse.aux)
 (Kapitel/Kapitel_4_Reglerentwurf/Reglerentwurf.aux))
@@ -2595,11 +2568,11 @@ Package rerunfilecheck Info: File `Skript_RT1_DHBW.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 34779 strings out of 476331
- 746094 string characters out of 5784897
- 1871660 words of memory out of 5000000
- 54092 multiletter control sequences out of 15000+600000
- 534637 words of font info for 80 fonts, out of 8000000 for 9000
+ 34737 strings out of 476331
+ 744908 string characters out of 5784897
+ 1870660 words of memory out of 5000000
+ 54068 multiletter control sequences out of 15000+600000
+ 533938 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,18n,106p,10912b,1341s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Markus Bell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
@@ -2607,44 +2580,43 @@ Here is how much of TeX's memory you used:
 pen/ec/dpi600\eccc1200.pk> <C:\Users\Markus Bell\AppData\Local\MiKTeX\fonts/pk/
 ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\Markus Bell\AppData\Local\MiKT
 eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0800.pk> <C:\Users\Markus Bell\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1200.pk> <C:\Users\Markus
- Bell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0800.pk> <C:\
-Users\Markus Bell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0
-600.pk> <C:\Users\Markus Bell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
-dpi600\ecti1200.pk> <C:\Users\Markus Bell\AppData\Local\MiKTeX\fonts/pk/ljfour/
-jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Markus Bell\AppData\Local\MiKTeX\font
-s/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Markus Bell\AppData\Local
-\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Markus Bell\A
-ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1200.pk> <C:\Users\M
-arkus Bell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk>
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0800.pk> <C:\Users\Markus
+ Bell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\
+Users\Markus Bell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1
+200.pk> <C:\Users\Markus Bell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\tcrm1200.pk> <C:\Users\Markus Bell\AppData\Local\MiKTeX\fonts/pk/ljfour/
+jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Markus Bell\AppData\Local\MiKTeX\font
+s/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Markus Bell\AppData\Local
+\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1200.pk> <C:\Users\Markus Bell\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\M
+arkus Bell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk>
  <C:\Users\Markus Bell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
-ecbx1728.pk> <C:\Users\Markus Bell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappe
-n/ec/dpi600\ecbx2488.pk> <C:\Users\Markus Bell\AppData\Local\MiKTeX\fonts/pk/lj
-four/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Markus Bell\AppData\Local\MiKTeX
-\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\Markus Bell\AppData\
-Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2488.pk><C:/Users/Markus Be
-ll/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/U
-sers/Markus Bell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mex10.pfb><C:/Users/Markus Bell/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cmextra/cmex8.pfb><C:/Users/Markus Bell/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Markus Bell/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Markus Bell
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Use
-rs/Markus Bell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
-ib10.pfb><C:/Users/Markus Bell/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cmextra/cmmib8.pfb><C:/Users/Markus Bell/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Markus Bell/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Markus Bell/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/
-Markus Bell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb><C:/Users/Markus Bell/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmsy6.pfb><C:/Users/Markus Bell/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Markus Bell/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb><C:/Users/Markus Bell/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Skript_RT1_DHBW.pdf (112 pages, 2262096 bytes).
+ecbx2488.pk> <C:\Users\Markus Bell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappe
+n/ec/dpi600\ecrm1200.pk> <C:\Users\Markus Bell\AppData\Local\MiKTeX\fonts/pk/lj
+four/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\Markus Bell\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2488.pk><C:/Users/Markus Bell/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Markus 
+Bell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C
+:/Users/Markus Bell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+mextra/cmex8.pfb><C:/Users/Markus Bell/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Markus Bell/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Markus Bell/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Markus Be
+ll/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:
+/Users/Markus Bell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+extra/cmmib8.pfb><C:/Users/Markus Bell/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr12.pfb><C:/Users/Markus Bell/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Markus Bell/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Markus Bell/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Use
+rs/Markus Bell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cms
+y6.pfb><C:/Users/Markus Bell/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb><C:/Users/Markus Bell/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/latxfont/lcircle1.pfb><C:/Users/Markus Bell/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Skript_RT1_DHBW.pdf (108 pages, 2184923 bytes).
 PDF statistics:
- 2630 PDF objects out of 2984 (max. 8388607)
- 422 named destinations out of 1000 (max. 500000)
- 1121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2539 PDF objects out of 2984 (max. 8388607)
+ 407 named destinations out of 1000 (max. 500000)
+ 1087 words of extra memory for PDF output out of 10000 (max. 10000000)
 

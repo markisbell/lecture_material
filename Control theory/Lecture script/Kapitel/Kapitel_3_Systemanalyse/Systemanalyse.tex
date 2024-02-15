@@ -190,74 +190,74 @@ Ein häufig verwendetes Beispiel für instabile Systeme ist das inverse Pendel. 
 	\end{itemize}
 \end{python}
 %
-\subsection{Stabilitätsprüfung anhand der Übertragungsfunktion \cite{Lunze10}}
-%
-Die Stabilität des geschlossenen Regelkreises basiert auf der Analyse der E/A-Stabilität. Das E/A-Verhalten ist durch die Gesamtübertragungsfunktion
-%
-\begin{equation*}
-\begin{aligned}
-%
-Y(s)=\underbrace{\frac{G_{0}(s)}{1+G_{0}(s)}}_{G_{\text{W}}(s)}W(s)+\underbrace{\frac{1}{1+G_{0}(s)}}_{G_{\text{Z}}(s)}Z(s)
-%
-\end{aligned}
-\end{equation*}   
-%
-gegeben, wie bereits erwähnt ist in dieser Vorlesung asymptotische Stabilität und E/A-Stabilität gleichwertig. Da beide Übertragungsfunktionen das selbe Nennerpolynom besitzen, reicht es, eine charakteristische Gleichung der Form
-%
-\begin{equation*}
-\begin{aligned}
-%
-F_{0}(s)=1+G_{0}(s)\\
-%
-\end{aligned}
-\end{equation*}
-%
-zu betrachten. Nur diese Polstellen dazu bei, ob das System stabil oder instabil ist. Zerlegen wir diese Gleichung in ihre weiteren Bestandteile, so erhalten wir eine Darstellung in Zähler- $Z_{0}(s)$ und Nennerpolynom $N_{0}(s)$ der Übertragungsfunktion $G_{0}(s)$
-%
-\begin{equation*}
-\begin{aligned}
-%
-F_{0}(s)=1+\frac{Z_{0}(s)}{N_{0}(s)}=\frac{N_{0}(s)+Z_{0}(s)}{N_{0}(s)}.\\
-%
-\end{aligned}
-\end{equation*}
-%
-In $N_{0}(s)+Z_{0}(s)$ sind die Pole des geschlossenen Regelkreises enthalten, weshalb zur Stabilitätsberechnung diese charakteristische Gleichung zu Null gesetzt wird und deren Wurzeln bestimmt werden.
-%
-\begin{equation*}
-\begin{aligned}
-%
-N_{0}(s)+Z_{0}(s)&=0\\
-%
-\overline{a}_{n}\overline{s}^{n}+\overline{a}_{n-1}\overline{s}^{n-1}+\overline{a}_{n-2}\overline{s}^{n-2}+\dots+\overline{a}_{0}&=0
-%
-\end{aligned}
-\end{equation*}
-%
-Die Lösungen $\overline{s}_{\text{P},1},\overline{s}_{\text{P},2},...,\overline{s}_{\text{P},n}$ dieses Polynoms bestimmen, ob der Regelkreis stabil oder instabil ist. Der Regelkreis ist genau dann E/A-stabil, wenn alle Pole einen negativen Realteil besitzen.
-%
-\begin{equation*}
-\begin{aligned}
-%
-\Re\{\overline{s}_{i}\}<0, \,\, \forall i \in \{1,...,n\}
-%
-\end{aligned}
-\end{equation*}
-%
-Diese notwendige und hinreichende Bedingung kann beispielsweise mit dem Hurwitz-Kriterium überprüft werden.
-%
-\begin{Aufgaben}{}{}
-	\begin{itemize}
-		\item \textit{Stabilitätsüberprüfung mittels Hurwitz-Kriterium}
-	\end{itemize}
-\end{Aufgaben}
-%
-\textbf{Zusammenfassung der Stabilitätsanalyse}:
-\begin{itemize}
-	\item Berechnung der Wurzeln der charakteristischen Gleichung.
-	\item Falls hohe Ordnung entweder Computer gestützte Verfahren oder Routh-Hurwitz-Kriterium.
-	\item Alle Realteile der Wurzeln, der charakteristischen Gleichung aus $N_{0}(s)+Z_{0}(s)$ müssen negativ sein.
-\end{itemize} 
+%\subsection{Stabilitätsprüfung anhand der Übertragungsfunktion \cite{Lunze10}}
+%%
+%Die Stabilität des geschlossenen Regelkreises basiert auf der Analyse der E/A-Stabilität. Das E/A-Verhalten ist durch die Gesamtübertragungsfunktion
+%%
+%\begin{equation*}
+%\begin{aligned}
+%%
+%Y(s)=\underbrace{\frac{G_{0}(s)}{1+G_{0}(s)}}_{G_{\text{W}}(s)}W(s)+\underbrace{\frac{1}{1+G_{0}(s)}}_{G_{\text{Z}}(s)}Z(s)
+%%
+%\end{aligned}
+%\end{equation*}   
+%%
+%gegeben, wie bereits erwähnt ist in dieser Vorlesung asymptotische Stabilität und E/A-Stabilität gleichwertig. Da beide Übertragungsfunktionen das selbe Nennerpolynom besitzen, reicht es, eine charakteristische Gleichung der Form
+%%
+%\begin{equation*}
+%\begin{aligned}
+%%
+%F_{0}(s)=1+G_{0}(s)\\
+%%
+%\end{aligned}
+%\end{equation*}
+%%
+%zu betrachten. Nur diese Polstellen dazu bei, ob das System stabil oder instabil ist. Zerlegen wir diese Gleichung in ihre weiteren Bestandteile, so erhalten wir eine Darstellung in Zähler- $Z_{0}(s)$ und Nennerpolynom $N_{0}(s)$ der Übertragungsfunktion $G_{0}(s)$
+%%
+%\begin{equation*}
+%\begin{aligned}
+%%
+%F_{0}(s)=1+\frac{Z_{0}(s)}{N_{0}(s)}=\frac{N_{0}(s)+Z_{0}(s)}{N_{0}(s)}.\\
+%%
+%\end{aligned}
+%\end{equation*}
+%%
+%In $N_{0}(s)+Z_{0}(s)$ sind die Pole des geschlossenen Regelkreises enthalten, weshalb zur Stabilitätsberechnung diese charakteristische Gleichung zu Null gesetzt wird und deren Wurzeln bestimmt werden.
+%%
+%\begin{equation*}
+%\begin{aligned}
+%%
+%N_{0}(s)+Z_{0}(s)&=0\\
+%%
+%\overline{a}_{n}\overline{s}^{n}+\overline{a}_{n-1}\overline{s}^{n-1}+\overline{a}_{n-2}\overline{s}^{n-2}+\dots+\overline{a}_{0}&=0
+%%
+%\end{aligned}
+%\end{equation*}
+%%
+%Die Lösungen $\overline{s}_{\text{P},1},\overline{s}_{\text{P},2},...,\overline{s}_{\text{P},n}$ dieses Polynoms bestimmen, ob der Regelkreis stabil oder instabil ist. Der Regelkreis ist genau dann E/A-stabil, wenn alle Pole einen negativen Realteil besitzen.
+%%
+%\begin{equation*}
+%\begin{aligned}
+%%
+%\Re\{\overline{s}_{i}\}<0, \,\, \forall i \in \{1,...,n\}
+%%
+%\end{aligned}
+%\end{equation*}
+%%
+%Diese notwendige und hinreichende Bedingung kann beispielsweise mit dem Hurwitz-Kriterium überprüft werden.
+%%
+%\begin{Aufgaben}{}{}
+%	\begin{itemize}
+%		\item \textit{Stabilitätsüberprüfung mittels Hurwitz-Kriterium}
+%	\end{itemize}
+%\end{Aufgaben}
+%%
+%\textbf{Zusammenfassung der Stabilitätsanalyse}:
+%\begin{itemize}
+%	\item Berechnung der Wurzeln der charakteristischen Gleichung.
+%	\item Falls hohe Ordnung entweder Computer gestützte Verfahren oder Routh-Hurwitz-Kriterium.
+%	\item Alle Realteile der Wurzeln, der charakteristischen Gleichung aus $N_{0}(s)+Z_{0}(s)$ müssen negativ sein.
+%\end{itemize} 
 %
 %\subsection{Der Frequenzgang des offenen Regelkreises} 
 %%

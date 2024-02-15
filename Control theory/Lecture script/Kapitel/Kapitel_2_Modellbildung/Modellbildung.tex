@@ -1828,231 +1828,78 @@ Das Verzögerungsglied zweiter Ordnung kann genutzt werden, um dynamische System
 %
 \newpage
 %
-%#####################################################
-\subsection{Nichtlineare Übertragungsglieder}
-%#####################################################
-%
-Zusätzlich zu den linearen Grundgliedern existieren noch eine Reihe von nichtlineare Gliedern die in vielen Standard-Regelkreisen eingesetzt werden \cite{Foellinger94,Landes00}. Diese sollen im folgenden zusammengefasst werde 
-%
-\begin{figure}[h]
-	%
-	\begin{subfigure}[c]{\textwidth}
-		\begin{minipage}{0.5\textwidth}
-			\begin{itemize}
-				\item Kennlinienglied
-			\end{itemize}
-		\end{minipage}\hfill
-		\begin{minipage}{0.5\textwidth}
-			\centering
-			\includegraphics[width=0.7\textwidth]{Abbildungen/Modellbildung/PDF/Kennlinienglied.pdf}
-		\end{minipage}
-	\end{subfigure}
-	%
-	\vspace{1cm}
-	%
-	\begin{subfigure}[c]{\textwidth}
-		\begin{minipage}{0.5\textwidth}
-			\begin{itemize}
-				\item Magnetisierungskennlinie
-			\end{itemize}
-		\end{minipage}\hfill
-		\begin{minipage}{0.5\textwidth}
-			\centering
-			\includegraphics[width=0.65\textwidth]{Abbildungen/Modellbildung/PDF/Magnetisierungskurve.pdf}
-		\end{minipage}
-	\end{subfigure}
-	%
-	\vspace{1cm}
-	%
-	\begin{subfigure}[c]{\textwidth}
-		\begin{minipage}{0.5\textwidth}
-			\begin{itemize}
-				\item Zweipunktschalter 
-			\end{itemize}
-		\end{minipage}
-		\begin{minipage}{0.5\textwidth}
-			\centering
-			\includegraphics[width=0.65\textwidth]{Abbildungen/Modellbildung/PDF/Zweipunktschalter.pdf}
-		\end{minipage}
-	\end{subfigure} 
-	%
-	\vspace{1cm}
-	%
-	\begin{subfigure}[c]{\textwidth}
-		\begin{minipage}{0.5\textwidth}
-			\begin{itemize}
-				\item Zweipunktschalter mit Hysterese
-			\end{itemize}
-		\end{minipage}\hfill
-		\begin{minipage}{0.5\textwidth}
-			\centering
-			\includegraphics[width=0.65\textwidth]{Abbildungen/Modellbildung/PDF/ZweipunktschalterHyst.pdf}
-		\end{minipage}
-	\end{subfigure} 
-	%
-	\vspace{1cm}
-	%
-	\begin{subfigure}[c]{\textwidth}
-		\begin{minipage}{0.5\textwidth}
-			\begin{itemize}
-				\item Betragsbildner
-			\end{itemize}
-		\end{minipage}\hfill
-		\begin{minipage}{0.5\textwidth}
-			\centering
-			\includegraphics[width=0.7\textwidth]{Abbildungen/Modellbildung/PDF/Betragsglied.pdf}
-		\end{minipage}
-	\end{subfigure}
-	%
-	\vspace{1cm}
-	%
-	\begin{subfigure}[c]{\textwidth}
-		\begin{minipage}{0.5\textwidth}
-			\begin{itemize}
-				\item Multiplizier Glied
-			\end{itemize}
-		\end{minipage}\hfill
-		\begin{minipage}{0.5\textwidth}
-			\centering
-			\includegraphics[width=0.5\textwidth]{Abbildungen/Modellbildung/PDF/Multiplizierer.pdf}
-		\end{minipage}
-	\end{subfigure}
-	% 
-\end{figure}
-%
-\newpage
-%
-\begin{figure}[h]
-	%
-	\begin{subfigure}[c]{\textwidth}
-		\begin{minipage}{0.5\textwidth}
-			\begin{itemize}
-				\item Dividier Glied
-			\end{itemize}
-		\end{minipage}
-		\begin{minipage}{0.5\textwidth}
-			\centering
-			\includegraphics[width=0.5\textwidth]{Abbildungen/Modellbildung/PDF/Dividierer.pdf}
-		\end{minipage}
-	\end{subfigure} 
-	%
-	\vspace{1cm}
-	%
-	\begin{subfigure}[c]{\textwidth}
-		\begin{minipage}{0.5\textwidth}
-			\begin{itemize}
-				\item Quadrier Glied
-			\end{itemize}
-		\end{minipage}\hfill
-		\begin{minipage}{0.5\textwidth}
-			\centering
-			\includegraphics[width=0.5\textwidth]{Abbildungen/Modellbildung/PDF/Quadrierer.pdf}
-		\end{minipage}
-	\end{subfigure} 
-	%
-	\vspace{1cm}
-	%
-	\begin{subfigure}[c]{\textwidth}
-		\begin{minipage}{0.5\textwidth}
-			\begin{itemize}
-				\item Wurzel Glied
-			\end{itemize}
-		\end{minipage}\hfill
-		\begin{minipage}{0.5\textwidth}
-			\centering
-			\includegraphics[width=0.5\textwidth]{Abbildungen/Modellbildung/PDF/Ratifizierer.pdf}
-		\end{minipage}
-	\end{subfigure} 
-	%
-	\vspace{1cm}
-	%
-	\begin{subfigure}[c]{\textwidth}
-		\begin{minipage}{0.5\textwidth}
-			\begin{itemize}
-				\item Invertierer
-			\end{itemize}
-		\end{minipage}\hfill
-		\begin{minipage}{0.5\textwidth}
-			\centering
-			\includegraphics[width=0.5\textwidth]{Abbildungen/Modellbildung/PDF/Invertierer.pdf}
-		\end{minipage}
-	\end{subfigure}
-\end{figure}
-%
-\vspace{-20pt}
-%
-%##############################################################
-\section{Experimentelle Bestimmung der Systemparameter}
-\label{sec:experimental}
-%##############################################################
-%
-Bis wurde untersucht, wie durch mathematische Modelle, Systeme beschrieben werden können. Diese wurden anhand von Differenzialgleichungen formuliert und danach analysiert. Eine weitere Möglichkeit ist es, die Systemparameter und somit das Modell des Systems aus einer Reihe von Messwerten der Systemantwort auf geschickt gewählte Eingangssignale zu schätzen \cite{Foellinger94}. Hierzu sollen nur dynamische Systeme betrachtet werden, die auch durch die vorher erläuterten Grundglieder dargestellt werden können.
-%
-%##########################################
-\subsubsection{Allgemeine Vorgehensweise:}
-%##########################################
-%
-Um das Systemverhalten zu ermitteln, wird die Reaktion des Systems auf eine Änderung des Eingang ausgewertet. Zunächst muss hierfür einige wesentliche Schritte durchlaufen werden, die im Folgenden beschrieben werden:
-%
-\begin{itemize}
-%
-\item Festlegung eines geeigneten Testsignals
-%
-	\begin{itemize}
-	\item Systemidentifikation im Zeitbereich.
-		%
-		\begin{itemize}
-		\item Wird in der Regel mittels Sprungfunktion vorgenommen. Die Sprungfunktion bietet eine starke Anregung, lässt sich einfach realisieren und ermöglicht es die Übergangsfunktion des Systems zu berechnen.
-		\item Für rotierende Systeme (elektrische Maschinen) ist der Sprung nicht geeignet, da die Drehzahl nicht zu hoch werden darf. Hier können auch Rechteck Impulse genutzt werden.
-		\item Falls das untersuchte System Beschränkungen in der Verstellgeschwindigkeit besitzt (Ventile) ist eine weitere Möglichkeit die Nutzung einer Rampenfunktion. 
-		\end{itemize}
-		%
-	\item Systemidentifikation im Frequenzbereich.
-		%
-		\begin{itemize}
-		\item Nutzung einer Sinusschwingung und somit Auswertung des Frequenzgangs des Systems. 
-		\end{itemize}
-	\end{itemize}
-%
-\item Festlegung des Modellansatzes.
-%
-	\begin{itemize}
-		\item Berücksichtigung von Vorkenntnissen über das System.
-		%
-		\begin{itemize}
-			\item Idealerweise sind die physikalischen Gleichungen bekannt und lediglich die Parameter müssen geschätzt werden.
-			\item Ein Modell annehmen ($\text{PT}_{1}$, $\text{PT}_{2}$ mit/ohne Totzeit) und die Reaktion des Systems mit diesem vergleichen.
-			\item Angleichen des Modells an die Ergebnisse im fortlaufenden Prozess.
-		\end{itemize}
-		%
-	\end{itemize}
-%
-\item Wahl des Gütekriteriums.
-%
-	\begin{itemize}
-	%
-	\item Minimierung von Modellfehlern mittels Gütefunktion z.B durch die Lösung eine Optimierungsproblems (Leased Squares)
-	%	
-	\end{itemize}
-%
-\item Berechnung der Parameter
-%
-\end{itemize}
-%
-Es handelt sich hierbei um eine iterative Vorgehensweise, welche sich Schrittweise an die tatsächlichen Parameter des Systems annähert. Die Parameterschätzung ist somit ein Art Regelkreis, bei dem der reale Systemausgang mit dem des Modells verglichen und über einen Schätzalgorithmus, die Parameteränderungen zurückgeführt werden (siehe Abbildung\ref{fig:parameterschaetzen}).
-%
-\begin{figure}[h]
-	\centering
-	\includegraphics[width=0.7\linewidth]{Abbildungen/Modellbildung/PDF/ParameterSchaetzung.pdf}
-	\caption{Wirkungsplan zur Schätzung von Systemparametern \cite{Foellinger94}}
-	\label{fig:parameterschaetzen}
-\end{figure}
-%
-\begin{simulation}{}{}
-	\begin{itemize}
-		\item \textit{Parameterschätzung mit \textbf{fminsearch()}} \copyright MATLAB
-	\end{itemize}
-\end{simulation}
+%%##############################################################
+%\section{Experimentelle Bestimmung der Systemparameter}
+%\label{sec:experimental}
+%%##############################################################
+%%
+%Bis wurde untersucht, wie durch mathematische Modelle, Systeme beschrieben werden können. Diese wurden anhand von Differenzialgleichungen formuliert und danach analysiert. Eine weitere Möglichkeit ist es, die Systemparameter und somit das Modell des Systems aus einer Reihe von Messwerten der Systemantwort auf geschickt gewählte Eingangssignale zu schätzen \cite{Foellinger94}. Hierzu sollen nur dynamische Systeme betrachtet werden, die auch durch die vorher erläuterten Grundglieder dargestellt werden können.
+%%
+%%##########################################
+%\subsubsection{Allgemeine Vorgehensweise:}
+%%##########################################
+%%
+%Um das Systemverhalten zu ermitteln, wird die Reaktion des Systems auf eine Änderung des Eingang ausgewertet. Zunächst muss hierfür einige wesentliche Schritte durchlaufen werden, die im Folgenden beschrieben werden:
+%%
+%\begin{itemize}
+%%
+%\item Festlegung eines geeigneten Testsignals
+%%
+%	\begin{itemize}
+%	\item Systemidentifikation im Zeitbereich.
+%		%
+%		\begin{itemize}
+%		\item Wird in der Regel mittels Sprungfunktion vorgenommen. Die Sprungfunktion bietet eine starke Anregung, lässt sich einfach realisieren und ermöglicht es die Übergangsfunktion des Systems zu berechnen.
+%		\item Für rotierende Systeme (elektrische Maschinen) ist der Sprung nicht geeignet, da die Drehzahl nicht zu hoch werden darf. Hier können auch Rechteck Impulse genutzt werden.
+%		\item Falls das untersuchte System Beschränkungen in der Verstellgeschwindigkeit besitzt (Ventile) ist eine weitere Möglichkeit die Nutzung einer Rampenfunktion. 
+%		\end{itemize}
+%		%
+%	\item Systemidentifikation im Frequenzbereich.
+%		%
+%		\begin{itemize}
+%		\item Nutzung einer Sinusschwingung und somit Auswertung des Frequenzgangs des Systems. 
+%		\end{itemize}
+%	\end{itemize}
+%%
+%\item Festlegung des Modellansatzes.
+%%
+%	\begin{itemize}
+%		\item Berücksichtigung von Vorkenntnissen über das System.
+%		%
+%		\begin{itemize}
+%			\item Idealerweise sind die physikalischen Gleichungen bekannt und lediglich die Parameter müssen geschätzt werden.
+%			\item Ein Modell annehmen ($\text{PT}_{1}$, $\text{PT}_{2}$ mit/ohne Totzeit) und die Reaktion des Systems mit diesem vergleichen.
+%			\item Angleichen des Modells an die Ergebnisse im fortlaufenden Prozess.
+%		\end{itemize}
+%		%
+%	\end{itemize}
+%%
+%\item Wahl des Gütekriteriums.
+%%
+%	\begin{itemize}
+%	%
+%	\item Minimierung von Modellfehlern mittels Gütefunktion z.B durch die Lösung eine Optimierungsproblems (Leased Squares)
+%	%	
+%	\end{itemize}
+%%
+%\item Berechnung der Parameter
+%%
+%\end{itemize}
+%%
+%Es handelt sich hierbei um eine iterative Vorgehensweise, welche sich Schrittweise an die tatsächlichen Parameter des Systems annähert. Die Parameterschätzung ist somit ein Art Regelkreis, bei dem der reale Systemausgang mit dem des Modells verglichen und über einen Schätzalgorithmus, die Parameteränderungen zurückgeführt werden (siehe Abbildung\ref{fig:parameterschaetzen}).
+%%
+%\begin{figure}[h]
+%	\centering
+%	\includegraphics[width=0.7\linewidth]{Abbildungen/Modellbildung/PDF/ParameterSchaetzung.pdf}
+%	\caption{Wirkungsplan zur Schätzung von Systemparametern \cite{Foellinger94}}
+%	\label{fig:parameterschaetzen}
+%\end{figure}
+%%
+%\begin{simulation}{}{}
+%	\begin{itemize}
+%		\item \textit{Parameterschätzung mit \textbf{fminsearch()}} \copyright MATLAB
+%	\end{itemize}
+%\end{simulation}
 %
 %###################################################################
 \subsection{Bestimmung des Übertragungsverhaltens von Grundgliedern}
@@ -2121,53 +1968,53 @@ dargestellt werden. Hierbei signalisiert der $\{\,\hat{}\,\}$ Operator, dass es 
 %
 $\hat{K}_{\text{P}}$ ergibt sich aus der stationären Verstärkung bzw. dem Endwert. $\hat{T}_{\text{1}}$ wiederum, ergibt sich aus dem Schnittpunkt der Tangente an den linearen Teil die Anstiegskurve und dem stationären Endwert. Je nachdem wie hoch der Rauschanteil des Signals ist ergeben sich bessere oder schlechtere Werte bei der graphischen Bestimmung.
 %
-%#################################################################
-\subsubsection{Allgemeine Verzögerungsglieder}
-%#################################################################
-%https://www.eit.hs-karlsruhe.de/mesysto/teil-a-zeitkontinuierliche-signale-und-systeme/uebertragungsglieder-der-regelungstechnik/minimalphasige-systeme-und-allpaesse/allpaesse.html
-%
-Verallgemeinert man nun die Betrachtung auf Übertragungsglieder erster Ordnung, so ergeben sich auch sprungfähige Systeme der Form
-%
-\begin{equation*}
-\begin{aligned}
-%
-G(s)&=\hat{K}_{\text{P}}\frac{\hat{T}_{\text{V}}s+1}{\hat{T}_{1}s+1}%
-%
-\end{aligned}
-\end{equation*}
-%
-Mit der Vorhaltezeitkonstante $\hat{T}_{\text{V}}$ und der bereits bekannten Verzögerungszeitkonstante $\hat{T}_{\text{1}}$. Im Zeitbereich lässt sich dieses Übertragungsglied folgendermaßen darstellen
-%
-\begin{equation*}
-\begin{aligned}
-%
-h(t)&=\hat{K}_{\text{P}}\left[1-\left(1-\frac{\hat{T}_{\text{V}}}{\hat{T}_{\text{1}}}\right)e^{-\frac{t}{\hat{T}_{1}}}\right].
-%
-\end{aligned}
-\end{equation*}
-%
-Aus dieser Gleichung lässt sich zudem der Anfangs- und Endwert der Sprungantwort direkt ermitteln.
-%
-\begin{equation*}
-\begin{aligned}
-%
-\lim\limits_{t\rightarrow 0}h(t)&=\hat{K}_{\text{P}}\left[1-\left(1-\frac{\hat{T}_{\text{V}}}{\hat{T}_{\text{1}}}\right)\underbrace{e^{-\frac{0}{\hat{T}_{1}}}}_{=1}\right] = \frac{\hat{K}_{\text{P}}\hat{T}_{\text{V}}}{\hat{T}_{1}}\\	
-%
-\lim\limits_{t\rightarrow \infty}h(t)&=\hat{K}_{\text{P}}\left[1-\left(1-\frac{\hat{T}_{\text{V}}}{\hat{T}_{\text{1}}}\right)\underbrace{e^{-\frac{\infty}{\hat{T}_{1}}}}_{=0}\right] = \hat{K}_{\text{P}}
-%
-\end{aligned}
-\end{equation*}
-%
-In Abbildung~\ref{fig:experimallpass} lässt sich sehr gut die Wirkung der Nullstelle im Zeitverhalten. So kompensiert die Nullstelle das Verhalten der Polstelle für $\hat{T}_{\text{V}}>\hat{T}_{1}$ und lässt das Glied differenzierend wirken.
-%
-\begin{figure}[h]
-	\centering
-	\includegraphics[width=0.5\linewidth]{Abbildungen/Modellbildung/PDF/ExperimentelAllpass.pdf}
-	\caption{Schätzung von Systemparametern beliebiger Systeme 1 Ordnung \cite{Foellinger94}}
-	\label{fig:experimallpass}
-\end{figure}
-%
-Besonders diese Eigenschaften macht man sich in Regelkreisen als sogenanntes Kompensationsglied zu nutze. Doch sollte erwähnt werden, das die Nullstelle ein Überschwingen im Regelkreis erzeugen kann. Auch wenn nur reelle Polstellen vorzufinden sind.
+%%#################################################################
+%\subsubsection{Allgemeine Verzögerungsglieder}
+%%#################################################################
+%%https://www.eit.hs-karlsruhe.de/mesysto/teil-a-zeitkontinuierliche-signale-und-systeme/uebertragungsglieder-der-regelungstechnik/minimalphasige-systeme-und-allpaesse/allpaesse.html
+%%
+%Verallgemeinert man nun die Betrachtung auf Übertragungsglieder erster Ordnung, so ergeben sich auch sprungfähige Systeme der Form
+%%
+%\begin{equation*}
+%\begin{aligned}
+%%
+%G(s)&=\hat{K}_{\text{P}}\frac{\hat{T}_{\text{V}}s+1}{\hat{T}_{1}s+1}%
+%%
+%\end{aligned}
+%\end{equation*}
+%%
+%Mit der Vorhaltezeitkonstante $\hat{T}_{\text{V}}$ und der bereits bekannten Verzögerungszeitkonstante $\hat{T}_{\text{1}}$. Im Zeitbereich lässt sich dieses Übertragungsglied folgendermaßen darstellen
+%%
+%\begin{equation*}
+%\begin{aligned}
+%%
+%h(t)&=\hat{K}_{\text{P}}\left[1-\left(1-\frac{\hat{T}_{\text{V}}}{\hat{T}_{\text{1}}}\right)e^{-\frac{t}{\hat{T}_{1}}}\right].
+%%
+%\end{aligned}
+%\end{equation*}
+%%
+%Aus dieser Gleichung lässt sich zudem der Anfangs- und Endwert der Sprungantwort direkt ermitteln.
+%%
+%\begin{equation*}
+%\begin{aligned}
+%%
+%\lim\limits_{t\rightarrow 0}h(t)&=\hat{K}_{\text{P}}\left[1-\left(1-\frac{\hat{T}_{\text{V}}}{\hat{T}_{\text{1}}}\right)\underbrace{e^{-\frac{0}{\hat{T}_{1}}}}_{=1}\right] = \frac{\hat{K}_{\text{P}}\hat{T}_{\text{V}}}{\hat{T}_{1}}\\	
+%%
+%\lim\limits_{t\rightarrow \infty}h(t)&=\hat{K}_{\text{P}}\left[1-\left(1-\frac{\hat{T}_{\text{V}}}{\hat{T}_{\text{1}}}\right)\underbrace{e^{-\frac{\infty}{\hat{T}_{1}}}}_{=0}\right] = \hat{K}_{\text{P}}
+%%
+%\end{aligned}
+%\end{equation*}
+%%
+%In Abbildung~\ref{fig:experimallpass} lässt sich sehr gut die Wirkung der Nullstelle im Zeitverhalten. So kompensiert die Nullstelle das Verhalten der Polstelle für $\hat{T}_{\text{V}}>\hat{T}_{1}$ und lässt das Glied differenzierend wirken.
+%%
+%\begin{figure}[h]
+%	\centering
+%	\includegraphics[width=0.5\linewidth]{Abbildungen/Modellbildung/PDF/ExperimentelAllpass.pdf}
+%	\caption{Schätzung von Systemparametern beliebiger Systeme 1 Ordnung \cite{Foellinger94}}
+%	\label{fig:experimallpass}
+%\end{figure}
+%%
+%Besonders diese Eigenschaften macht man sich in Regelkreisen als sogenanntes Kompensationsglied zu nutze. Doch sollte erwähnt werden, das die Nullstelle ein Überschwingen im Regelkreis erzeugen kann. Auch wenn nur reelle Polstellen vorzufinden sind.
 %
 %%#################################################################
 %\subsubsection{Übertragungsglieder mit Überschwingen ohne periodisches Schwingen}
@@ -2333,11 +2180,160 @@ Alle Größen sind ab diesem Zeitpunkt auf die Basis SI-Einheiten normiert und s
 	\end{itemize}
 \end{Aufgaben}
 %
+\newpage
+%
 %#######################################################################################
 \subsection{Linearisierung}
 %#######################################################################################
 %
-Viele in der Praxis vorkommende Systeme haben nichtlineares Verhalten. Jedoch bietet die Regelungstechnik für LZI-Glieder ein wesentliches breiteres Spektrum an Methoden an. Des Weiteren zeigt sich in vielen Fällen, dass es ausreicht ein System in der Nähe eines Arbeitspunktes zu betrachten und es um diesen Arbeitspunkt zu linearisieren \cite{Lunze10,MSF05}. Dabei ist der Arbeitspunkt als ein beliebiger stationärer Zustand des Systems zu verstehen. Dies kann zum Beispiel der stationäre Endwert der Sprungantwort eines Systems sein, welcher sich aus der Übertragungsfunktion
+Viele in der Praxis vorkommende Systeme haben nichtlineares Verhalten. Jedoch bietet die Regelungstechnik für LZI-Glieder ein wesentliches breiteres Spektrum an Methoden an. Einige Beispiele von nichtlineare Gliedern die in vielen Standard-Regelkreisen eingesetzt werden, sind im folgenden aufgezeigt \cite{Foellinger94,Landes00}.
+%
+\begin{figure}[h]
+%
+	%
+	\begin{subfigure}[c]{\textwidth}
+		\begin{minipage}{0.5\textwidth}
+			\begin{itemize}
+				\item Kennlinienglied
+			\end{itemize}
+		\end{minipage}\hfill
+		\begin{minipage}{0.5\textwidth}
+			\centering
+			\includegraphics[width=0.7\textwidth]{Abbildungen/Modellbildung/PDF/Kennlinienglied.pdf}
+		\end{minipage}
+	\end{subfigure}
+	%
+	\vspace{1cm}
+	%
+	\begin{subfigure}[c]{\textwidth}
+		\begin{minipage}{0.5\textwidth}
+			\begin{itemize}
+				\item Magnetisierungskennlinie
+			\end{itemize}
+		\end{minipage}\hfill
+		\begin{minipage}{0.5\textwidth}
+			\centering
+			\includegraphics[width=0.65\textwidth]{Abbildungen/Modellbildung/PDF/Magnetisierungskurve.pdf}
+		\end{minipage}
+	\end{subfigure}
+	%
+	\vspace{1cm}
+	%
+	\begin{subfigure}[c]{\textwidth}
+		\begin{minipage}{0.5\textwidth}
+			\begin{itemize}
+				\item Zweipunktschalter 
+			\end{itemize}
+		\end{minipage}
+		\begin{minipage}{0.5\textwidth}
+			\centering
+			\includegraphics[width=0.65\textwidth]{Abbildungen/Modellbildung/PDF/Zweipunktschalter.pdf}
+		\end{minipage}
+	\end{subfigure} 
+	%
+	\vspace{1cm}
+	%
+	\begin{subfigure}[c]{\textwidth}
+		\begin{minipage}{0.5\textwidth}
+			\begin{itemize}
+				\item Zweipunktschalter mit Hysterese
+			\end{itemize}
+		\end{minipage}\hfill
+		\begin{minipage}{0.5\textwidth}
+			\centering
+			\includegraphics[width=0.65\textwidth]{Abbildungen/Modellbildung/PDF/ZweipunktschalterHyst.pdf}
+		\end{minipage}
+	\end{subfigure} 
+	%
+	\vspace{1cm}
+	%
+	\begin{subfigure}[c]{\textwidth}
+		\begin{minipage}{0.5\textwidth}
+			\begin{itemize}
+				\item Betragsbildner
+			\end{itemize}
+		\end{minipage}\hfill
+		\begin{minipage}{0.5\textwidth}
+			\centering
+			\includegraphics[width=0.7\textwidth]{Abbildungen/Modellbildung/PDF/Betragsglied.pdf}
+		\end{minipage}
+	\end{subfigure}
+	%
+	\vspace{1cm}
+	%
+	\begin{subfigure}[c]{\textwidth}
+		\begin{minipage}{0.5\textwidth}
+			\begin{itemize}
+				\item Multiplizier Glied
+			\end{itemize}
+		\end{minipage}\hfill
+		\begin{minipage}{0.5\textwidth}
+			\centering
+			\includegraphics[width=0.5\textwidth]{Abbildungen/Modellbildung/PDF/Multiplizierer.pdf}
+		\end{minipage}
+	\end{subfigure}
+	%
+	\begin{subfigure}[c]{\textwidth}
+		\begin{minipage}{0.5\textwidth}
+			\begin{itemize}
+				\item Dividier Glied
+			\end{itemize}
+		\end{minipage}
+		\begin{minipage}{0.5\textwidth}
+			\centering
+			\includegraphics[width=0.5\textwidth]{Abbildungen/Modellbildung/PDF/Dividierer.pdf}
+		\end{minipage}
+	\end{subfigure} 
+	%
+\end{figure}
+%
+\begin{figure}[h]
+	\vspace{1cm}
+	%
+	\begin{subfigure}[c]{\textwidth}
+		\begin{minipage}{0.5\textwidth}
+			\begin{itemize}
+				\item Quadrier Glied
+			\end{itemize}
+		\end{minipage}\hfill
+		\begin{minipage}{0.5\textwidth}
+			\centering
+			\includegraphics[width=0.5\textwidth]{Abbildungen/Modellbildung/PDF/Quadrierer.pdf}
+		\end{minipage}
+	\end{subfigure} 
+	%
+	\vspace{1cm}
+	%
+	\begin{subfigure}[c]{\textwidth}
+		\begin{minipage}{0.5\textwidth}
+			\begin{itemize}
+				\item Wurzel Glied
+			\end{itemize}
+		\end{minipage}\hfill
+		\begin{minipage}{0.5\textwidth}
+			\centering
+			\includegraphics[width=0.5\textwidth]{Abbildungen/Modellbildung/PDF/Ratifizierer.pdf}
+		\end{minipage}
+	\end{subfigure} 
+	%
+	\vspace{1cm}
+	%
+	\begin{subfigure}[c]{\textwidth}
+		\begin{minipage}{0.5\textwidth}
+			\begin{itemize}
+				\item Invertierer
+			\end{itemize}
+		\end{minipage}\hfill
+		\begin{minipage}{0.5\textwidth}
+			\centering
+			\includegraphics[width=0.5\textwidth]{Abbildungen/Modellbildung/PDF/Invertierer.pdf}
+		\end{minipage}
+	\end{subfigure}
+\end{figure}\\\\
+%
+%\vspace{-20pt}
+%
+Des Weiteren zeigt sich in vielen Fällen, dass es ausreicht ein System in der Nähe eines Arbeitspunktes zu betrachten und es um diesen Arbeitspunkt zu linearisieren \cite{Lunze10,MSF05}. Dabei ist der Arbeitspunkt als ein beliebiger stationärer Zustand des Systems zu verstehen. Dies kann zum Beispiel der stationäre Endwert der Sprungantwort eines Systems sein, welcher sich aus der Übertragungsfunktion
 %
 \begin{equation*}
 \begin{aligned}
@@ -2479,7 +2475,7 @@ Y_{2}(s)&=G_{2}(s)U_{2}(s)\label{eq:Reihenschaltung}
 \end{aligned}
 \end{equation} 
 %
-\begin{figure}
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=0.85\linewidth]{Abbildungen/Modellbildung/PDF/RechenregelnMult.pdf}
 	\caption{Regeln für die Reihenschaltung von Übertragungsfunktionen nach \cite{Lunze10}}
